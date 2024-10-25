@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Windows Chan",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Windows Chan - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/windows-chan",
+  "Type": 3,
+  "Source": "wc.mp4",
+  "Tags": [
+    "Kawaii Character",
+    "Operating System",
+    "Personification",
+    "Tech Mascot",
+    "Anime"
+  ],
+  "Arguments": null
+}

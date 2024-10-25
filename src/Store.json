@@ -774,6 +774,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Spirited Away-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Tanjiro Kamado-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Satoru Gojo 3D-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Satoru Gojo-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Windows Chan-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Kaguya-sama wa Kokurasetai-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -6072,6 +6102,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Dune Minimalist-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Elastic Morty Face-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -6654,6 +6690,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Whiskey Hotel-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Black Ops 6-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9455,6 +9497,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Smile Vector Dark-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Moonlit Sanctuary-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Dune Minimalist",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dune Minimalist - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/dune-minimalist-4k",
+  "Type": 3,
+  "Source": "dm.mp4",
+  "Tags": [
+    "Desert Planet",
+    "Frank Herbert",
+    "Atmospheric",
+    "Sand Dunes",
+    "Arrakis"
+  ],
+  "Arguments": null
+}
