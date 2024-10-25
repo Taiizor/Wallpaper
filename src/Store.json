@@ -774,6 +774,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Trafalgar-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Beast of Darkness-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "M4 SOPMOD II-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4358,6 +4370,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "The Thing vs Hulk-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Spider-Man Miles Morales Power-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -4727,6 +4745,18 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Green Sword-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Sad Knight-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Water Dragon Samurai-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6558,6 +6588,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Twin Touch-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "The Knight-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9341,6 +9377,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Moonlit Sanctuary-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Green Home-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -9813,6 +9855,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Japanese Village-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Ocean Evening With Cat-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
