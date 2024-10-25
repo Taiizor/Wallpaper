@@ -774,6 +774,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Ryo Yamada-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Eto-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kisaki Hot Spring-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Anna Yanami-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Trafalgar-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -6588,6 +6612,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Black Ops 6-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Sage and Omen-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Twin Touch-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

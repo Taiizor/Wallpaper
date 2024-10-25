@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.10.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Eto",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Eto - Tokyo Ghoul - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/eto-tokyo-ghoul-live-wallpaper",
+  "Type": 3,
+  "Source": "eth.mp4",
+  "Tags": [
+    "Green Hair",
+    "Lightning",
+    "Bandage",
+    "Smiling"
+  ],
+  "Arguments": null
+}
