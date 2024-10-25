@@ -774,6 +774,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Kaguya-sama wa Kokurasetai-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Kazemi Black-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Wakamo-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kaguya-sama Love is War-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Shinonome Akito-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Ryo Yamada-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4661,6 +4691,12 @@
     },
     "Cute": {
       "Wallpapers": {
+        "Pokemon Room-1": {
+          "Source": "src/Cute",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Anya Forger-1": {
           "Source": "src/Cute",
           "Cover": "thumbnail.jpg",
@@ -4769,6 +4805,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Red Girl With Katana-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Green Sword-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",

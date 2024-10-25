@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Shinonome Akito",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Shinonome Akito - Project SEKAI - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/shinonome-akito",
+  "Type": 3,
+  "Source": "sapsekai.mp4",
+  "Tags": [
+    "Street Performer",
+    "Vivid Bad Squad",
+    "Music Producer",
+    "Ambitious",
+    "Vocaloid"
+  ],
+  "Arguments": null
+}

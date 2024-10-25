@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.10.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Kazemi Black",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Kazemi Black - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/kazemi-black",
+  "Type": 3,
+  "Source": "kb.mp4",
+  "Tags": [
+    "Dark Aesthetic",
+    "Shadow Warrior",
+    "Dark Kazemi",
+    "Black Aura"
+  ],
+  "Arguments": null
+}

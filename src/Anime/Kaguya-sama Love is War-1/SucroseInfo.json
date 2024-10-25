@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Kaguya-sama Love is War",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Kaguya-sama Love is War - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/kaguya-sama-love-is-war",
+  "Type": 3,
+  "Source": "ksliw.mp4",
+  "Tags": [
+    "Kaguya Shinomiya",
+    "Miyuki Shirogane",
+    "Student Council",
+    "Romance Comedy",
+    "Love Battle"
+  ],
+  "Arguments": null
+}
