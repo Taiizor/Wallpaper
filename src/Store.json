@@ -774,6 +774,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Miku Shooting Stars-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Spirited Away-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4835,6 +4841,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Fantasy Samurai Girl Katana-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Red Girl With Katana-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6690,6 +6702,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Ganyu Twilight Blossom-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Metis-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Firefly's Secret Base-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9246,16 +9270,16 @@
         }
       }
     },
-    "Holidays and Seasons": {
+    "Holidays": {
       "Wallpapers": {
         "Vacation Cat-1": {
-          "Source": "src/Holidays and Seasons",
+          "Source": "src/Holidays",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": false
         },
         "Merry Christmas Tree-1": {
-          "Source": "src/Holidays and Seasons",
+          "Source": "src/Holidays",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": false
@@ -11304,6 +11328,16 @@
         },
         "Space Portal-1": {
           "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        }
+      }
+    },
+    "Seasons": {
+      "Wallpapers": {
+        "Autumn Anime Girl-1": {
+          "Source": "src/Seasons",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": false

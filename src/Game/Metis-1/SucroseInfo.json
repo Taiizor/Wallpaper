@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.10.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Metis",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Metis - Persona 3 Reload - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/metis-persona-3-reload-live-wallpaper",
+  "Type": 3,
+  "Source": "mp3r.mp4",
+  "Tags": [
+    "Short Hair",
+    "Red Eyes"
+  ],
+  "Arguments": null
+}

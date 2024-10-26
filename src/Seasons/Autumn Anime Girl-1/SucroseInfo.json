@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.26.0",
+  "Version": "1.0.0.0",
+  "Title": "Autumn Anime Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Autumn Anime Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/autumn-anime-girl-live-wallpaper",
+  "Type": 3,
+  "Source": "aag.mp4",
+  "Tags": [
+    "Japanese Clothes",
+    "Falling Leaves",
+    "Relaxing",
+    "Sitting",
+    "Kimono"
+  ],
+  "Arguments": null
+}

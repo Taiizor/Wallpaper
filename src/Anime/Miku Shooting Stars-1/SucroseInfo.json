@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Miku Shooting Stars",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Miku Shooting Stars - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/miku-shooting-stars-live-wallpaper",
+  "Type": 3,
+  "Source": "mss.mp4",
+  "Tags": [
+    "Falling Sleep",
+    "Hatsune Miku",
+    "Blue Hair",
+    "Water",
+    "Sky"
+  ],
+  "Arguments": null
+}
