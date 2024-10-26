@@ -6690,6 +6690,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Firefly's Secret Base-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Whiskey Hotel-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

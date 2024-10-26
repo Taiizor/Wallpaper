@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.10.23.0",
-  "Version": "1.0.0.1",
+  "Version": "1.0.0.2",
   "Title": "Eto Yoshimura",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -9,7 +9,7 @@
   "License": null,
   "Contact": "https://moewalls.com/anime/eto-tokyo-ghoul-live-wallpaper",
   "Type": 3,
-  "Source": "eth.mp4",
+  "Source": "eytg.mp4",
   "Tags": [
     "Green Hair",
     "Lightning",
