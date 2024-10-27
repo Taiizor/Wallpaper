@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.10.27.0",
+  "Version": "1.0.0.0",
+  "Title": "First Contact",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "First Contact - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/sci-fi/first-contact-live-wallpaper",
+  "Type": 3,
+  "Source": "fc.mp4",
+  "Tags": null,
+  "Arguments": null
+}

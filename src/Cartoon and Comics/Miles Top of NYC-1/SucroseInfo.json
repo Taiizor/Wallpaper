@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.10.27.0",
+  "Version": "1.0.0.0",
+  "Title": "Miles Top of NYC",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Miles Top of NYC - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/comics/miles-top-of-nyc-live-wallpaper",
+  "Type": 3,
+  "Source": "mtonyc.mp4",
+  "Tags": [
+    "Miles Morales",
+    "New York City"
+  ],
+  "Arguments": null
+}

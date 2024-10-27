@@ -774,6 +774,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Itachi Silent Rage-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Sukuna Phantom Beasts-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Miku Shooting Stars-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4460,6 +4472,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Miles Top of NYC-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "The Thing vs Hulk-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -4841,6 +4859,18 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Samurai Contemplation-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Wandering Swordsman-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fantasy Samurai Girl Katana-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -9288,6 +9318,12 @@
     },
     "Horror and Halloween": {
       "Wallpapers": {
+        "Cute Halloween Ghost-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Bart Halloween Chill Smoke-1": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",
@@ -10816,6 +10852,12 @@
     },
     "Pixel Art": {
       "Wallpapers": {
+        "First Contact-1": {
+          "Source": "src/Pixel Art",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "16 Bit Ranni-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",
