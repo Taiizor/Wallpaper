@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.10.27.0",
+  "Version": "1.0.0.0",
+  "Title": "Black Kitten Halloween",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Black Kitten Halloween - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/halloween/black-kitten-halloween-live-wallpaper",
+  "Type": 3,
+  "Source": "bkh.mp4",
+  "Tags": [
+    "Pumpkin",
+    "Cat"
+  ],
+  "Arguments": null
+}

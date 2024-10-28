@@ -774,6 +774,42 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Itachi's Throne-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Goku Faces Demon-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "King of Curses Sukuna-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Goku Watching Sunset-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Miyabi and Soukaku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Mine Idol-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Itachi Silent Rage-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4248,6 +4284,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Two Heavens as One-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Wanted Man Joker-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -4859,6 +4901,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Samurai in Bamboo Forest-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Samurai Contemplation-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6732,6 +6780,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Dottore-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Ganyu Twilight Blossom-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9318,6 +9372,12 @@
     },
     "Horror and Halloween": {
       "Wallpapers": {
+        "Black Kitten Halloween-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cute Halloween Ghost-1": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",
@@ -10047,6 +10107,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Autumn Camping-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Japanese Village-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
