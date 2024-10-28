@@ -32,18 +32,20 @@
     margin: 0;
 }
 
-html {
+html, body {
+    overflow-y: hidden;
+    height: 100vh;
+    display: grid;
     place-items: center;
 }
 
 body {
     font-family: monospace;
     font-size: 2rem;
-    min-height: 100vh;
-    display: grid;
-    overflow-y: hidden;
-    place-items: center;
     background: linear-gradient(-45deg, #c4d2ef, #dfe6f6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .hr,
