@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.15.0",
+  "Version": "1.0.0.0",
+  "Title": "Galatasaray",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Galatasaray Sports Club, more commonly referred to as simply Galatasaray and also known as Galatasaray AŞ or Gala in UEFA competitions, is a Turkish professional football club based on the European side of the city of Istanbul.",
+  "Author": "Emir",
+  "License": null,
+  "Contact": "https://es.pixilart.com/ibeemi",
+  "Type": 0,
+  "Source": "gs.gif",
+  "Tags": [
+    "Pixel Art",
+    "Logo",
+    "GS"
+  ],
+  "Arguments": null
+}
