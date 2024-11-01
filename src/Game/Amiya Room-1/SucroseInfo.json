@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.11.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Amiya Room",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Amiya Room - Arknights - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/amiya-room-arknights-live-wallpaper",
+  "Type": 3,
+  "Source": "ara.mp4",
+  "Tags": [
+    "Personal Computer",
+    "Animal Ears",
+    "PC"
+  ],
+  "Arguments": null
+}

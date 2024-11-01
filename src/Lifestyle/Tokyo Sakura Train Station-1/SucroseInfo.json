@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Tokyo Sakura Train Station",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Tokyo Sakura Train Station - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/tokyo-sakura-train-station-live-wallpaper",
+  "Type": 3,
+  "Source": "tsts.mp4",
+  "Tags": [
+    "Falling Petals",
+    "Sunset"
+  ],
+  "Arguments": null
+}

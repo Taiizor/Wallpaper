@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Fantasy Samurai Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fantasy Samurai Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/fantasy-samurai-girl-2-live-wallpaper",
+  "Type": 3,
+  "Source": "fsg.mp4",
+  "Tags": [
+    "White Hair",
+    "Katana"
+  ],
+  "Arguments": null
+}

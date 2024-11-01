@@ -774,6 +774,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Maid Sparkle-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Itachi's Throne-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3162,12 +3168,6 @@
           "Live": "preview.gif",
           "Adult": true
         },
-        "Texas Drinking Wine-1": {
-          "Source": "src/Anime",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
         "Kouka-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4284,6 +4284,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Public Safety Devil Hunter Aki-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Two Heavens as One-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -4901,6 +4907,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Fantasy Samurai Girl-2": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Samurai in Bamboo Forest-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6780,6 +6792,30 @@
     },
     "Game": {
       "Wallpapers": {
+        "Amiya Room-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Texas Drinking Wine-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Rappa Graffiti-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Heart of Chornobyl-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dottore-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9627,6 +9663,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Lost Cat-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Smile Vector Dark-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -10111,6 +10153,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Tokyo Sakura Train Station-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Autumn Camping-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",

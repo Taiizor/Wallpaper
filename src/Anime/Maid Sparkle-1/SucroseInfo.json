@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Maid Sparkle",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Maid Sparkle - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/anime/maid-sparkle-live-wallpaper",
+  "Type": 3,
+  "Source": "ms.mp4",
+  "Tags": [
+    "Smiling"
+  ],
+  "Arguments": null
+}

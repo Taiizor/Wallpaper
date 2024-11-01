@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Rappa Graffiti",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rappa Graffiti - Honkai: Star Rail - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/rappa-graffiti-honkai-star-rail-live-wallpaper",
+  "Type": 3,
+  "Source": "rghsr.mp4",
+  "Tags": [
+    "Pink Hair",
+    "Ponytail",
+    "Glasses",
+    "Smiling",
+    "Hat"
+  ],
+  "Arguments": null
+}

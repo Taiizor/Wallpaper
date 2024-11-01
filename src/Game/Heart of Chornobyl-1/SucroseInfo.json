@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Heart of Chornobyl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/s-t-a-l-k-e-r-2-heart-of-chornobyl-live-wallpaper",
+  "Type": 3,
+  "Source": "stalker2hoc.mp4",
+  "Tags": [
+    "Mask"
+  ],
+  "Arguments": null
+}

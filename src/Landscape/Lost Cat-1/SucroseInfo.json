@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Lost Cat",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lost Cat - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/lost-cat-live-wallpaper",
+  "Type": 3,
+  "Source": "lc.mp4",
+  "Tags": [
+    "Black Cat",
+    "Fireflies",
+    "Clouds",
+    "Field",
+    "Sky"
+  ],
+  "Arguments": null
+}
