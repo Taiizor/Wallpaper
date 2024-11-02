@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Stripescape-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Hexagon Grid Ripple Effect-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -774,6 +780,72 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Sukuna and Yuji-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Luffy Kid Pirate Ship-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Rock Lee Gate Eight Gates-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Anime Girl Watching Sunset By Cherry Tree-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Ryo Yamada In The Snow-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Anna Yanami Starry Night-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Future Trunks-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Burnice White-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Makima Midnight-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kugisaki Nobara-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Girls-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Maid Sparkle-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4514,6 +4586,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Spray Can Miles-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Miles Top of NYC-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -6198,6 +6276,18 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Mafia Mob SpongeBob SquarePants-2": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Mafia Mob SpongeBob SquarePants-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dune Minimalist-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -6786,6 +6876,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Black Ops II-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cypher x Omen x Sova-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Amiya Room-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9657,6 +9759,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Dawn of Humanity-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lost Cat-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -10147,6 +10255,18 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Sunset Boat Ride-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Lofi Pink Town-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Tokyo Sakura Train Station-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Spray Can Miles",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Spray Can Miles - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/comics/spray-can-miles-live-wallpaper",
+  "Type": 3,
+  "Source": "scm.mp4",
+  "Tags": [
+    "Miles Morales",
+    "Spider-Man"
+  ],
+  "Arguments": null
+}

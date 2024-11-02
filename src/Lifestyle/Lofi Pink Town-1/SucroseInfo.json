@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.11.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Lofi Pink Town",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lofi Pink Town - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/lofi-pink-town-live-wallpaper",
+  "Type": 3,
+  "Source": "lpt.mp4",
+  "Tags": [
+    "Falling Petals",
+    "Aesthetics",
+    "Buildings",
+    "Clouds"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Stripescape",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Stripescape - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/stripescape-live-wallpaper",
+  "Type": 3,
+  "Source": "s.mp4",
+  "Tags": [
+    "Abstraction",
+    "Lines"
+  ],
+  "Arguments": null
+}
