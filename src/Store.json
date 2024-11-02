@@ -6276,12 +6276,6 @@
     },
     "Film and TV": {
       "Wallpapers": {
-        "Mafia Mob SpongeBob SquarePants-2": {
-          "Source": "src/Film and TV",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
         "Mafia Mob SpongeBob SquarePants-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
