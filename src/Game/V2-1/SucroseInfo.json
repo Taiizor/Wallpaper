@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.11.2.0",
+  "Version": "1.0.0.0",
+  "Title": "V2",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "V2 - Half-Life - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Half-Life-v2-Live-Wallpaper-For-PC",
+  "Type": 3,
+  "Source": "v2hl.mp4",
+  "Tags": [
+    "Green Eyes",
+    "Half Life",
+    "Alyx"
+  ],
+  "Arguments": null
+}

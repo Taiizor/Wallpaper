@@ -7500,6 +7500,12 @@
           "Live": "preview.gif",
           "Adult": true
         },
+        "V2-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Portal Storm-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
