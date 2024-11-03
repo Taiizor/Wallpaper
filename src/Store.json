@@ -6870,6 +6870,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Gordon Freeman-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Black Ops II-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -7470,7 +7476,49 @@
           "Live": "preview.gif",
           "Adult": false
         },
+        "Game Map Storm-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Battle With 4 Heavenly Kings-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Plaza-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Black Mesa Deep Blue Valve Xen-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Portal Storm-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Fabricator Game-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Sevagoth Prime-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Team Zombies Tornado Storm-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",

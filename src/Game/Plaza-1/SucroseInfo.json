@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Plaza",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "A wallpaper featuring the central plaza just outside of the train station at the beginning of Half-Life 2. Features citizens and metro cops walking around, scanners flying about and Breen's broadcast on the surpression field.",
+  "Author": "Verr",
+  "License": null,
+  "Contact": "https://steamcommunity.com/id/verrwolf",
+  "Type": 3,
+  "Source": "phl2.mp4",
+  "Tags": [
+    "Half Life"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.11.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Gordon Freeman",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gordon Freeman - Half-Life - Live Wallpaper",
+  "Author": "MotionBGS",
+  "License": null,
+  "Contact": "https://motionbgs.com/half-life-gordon-freeman",
+  "Type": 3,
+  "Source": "gfhl.mp4",
+  "Tags": [
+    "Green Eyes",
+    "Half Life",
+    "HEV Suit",
+    "Glasses"
+  ],
+  "Arguments": null
+}
