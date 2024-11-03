@@ -780,6 +780,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Menacing Goku Black-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Mourning Itachi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sukuna and Yuji-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4865,6 +4877,12 @@
     },
     "Cute": {
       "Wallpapers": {
+        "Coffee Cat-1": {
+          "Source": "src/Cute",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Pokemon Room-1": {
           "Source": "src/Cute",
           "Cover": "thumbnail.jpg",
@@ -4979,6 +4997,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Joan of Arc-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fantasy Samurai Girl-2": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",

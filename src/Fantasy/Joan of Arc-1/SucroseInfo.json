@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Joan of Arc",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Joan of Arc - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/fantasy/joan-of-arc-live-wallpaper",
+  "Type": 3,
+  "Source": "joa.mp4",
+  "Tags": [
+    "Jeanne d'Arc"
+  ],
+  "Arguments": null
+}
