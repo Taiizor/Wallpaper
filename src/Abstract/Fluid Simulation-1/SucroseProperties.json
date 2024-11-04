@@ -1,15 +1,41 @@
 {
   "PropertyListener": "SucrosePropertyListener('{0}', {1});",
   "PropertyList": {
+    "audioLabel": {
+      "type": "label",
+      "value": "Audio"
+    },
     "audioReact": {
       "type": "checkbox",
       "value": true,
-      "text": "Audio Visualiser"
+      "text": "Visualiser"
+    },
+    "randomLabel": {
+      "type": "label",
+      "value": "Random"
     },
     "randomSplats": {
       "type": "checkbox",
       "value": false,
-      "text": "Random Splats"
+      "text": "Splats"
+    },
+    "interactionLabel": {
+      "type": "label",
+      "value": "Interaction"
+    },
+    "useMouse": {
+      "type": "dropdown",
+      "value": 2,
+      "text": "Mouse Behavior",
+      "items": [
+        "Never",
+        "On Press",
+        "Always"
+      ]
+    },
+    "performanceLabel": {
+      "type": "label",
+      "value": "Performance"
     },
     "quality": {
       "type": "dropdown",
@@ -34,6 +60,29 @@
         "256",
         "512"
       ]
+    },
+    "colorLabel": {
+      "type": "label",
+      "value": "Color"
+    },
+    "colorLeft": {
+      "text": "Color Left",
+      "type": "colorpicker",
+      "value": "#FFFF0000"
+    },
+    "colorRight": {
+      "text": "Color Right",
+      "type": "colorpicker",
+      "value": "#FFFFFF00"
+    },
+    "customColor": {
+      "type": "checkbox",
+      "value": false,
+      "text": "Enable"
+    },
+    "simulationLabel": {
+      "type": "label",
+      "value": "Simulation"
     },
     "densityDiffusion": {
       "max": 40,
@@ -163,24 +212,65 @@
       "type": "slider",
       "value": 100
     },
-    "bgColor": {
-      "text": "BG Color",
+    "backgroundLabel": {
+      "type": "label",
+      "value": "Background"
+    },
+    "backgroundColor": {
+      "text": "Color",
       "type": "colorpicker",
       "value": "#FF000000"
     },
-    "imgSelect": {
+    "backgroundSrc": {
       "title": "Select Image",
       "type": "filedropdown",
       "value": "pexels-neosiam-601798.jpg",
-      "text": "Image",
-      "desc": "Image Files",
-      "filter": "*.jpeg|*.jpg|*.png",
+      "text": "Image or WebM Video",
+      "desc": "Image/WebM Video",
+      "filter": "*.jpg|*.jpeg|*.webp|*.png|*.webm",
       "folder": "wallpapers"
     },
-    "bgImgChk": {
+    "backgroundFit": {
+      "type": "dropdown",
+      "value": 2,
+      "text": "Choose a Fit",
+      "items": [
+        "Contain",
+        "Cover",
+        "Fill",
+        "None"
+      ]
+    },
+    "backgroundEnabled": {
       "type": "checkbox",
       "value": false,
-      "text": "Background"
+      "text": "Enable"
+    },
+    "overlayLabel": {
+      "type": "label",
+      "value": "Overlay"
+    },
+    "overlaySrc": {
+      "title": "Select Image",
+      "type": "filedropdown",
+      "value": "icon-sucrose-300.png",
+      "text": "Image",
+      "desc": "Image Files",
+      "filter": "*.jpg|*.jpeg|*.webp|*.png|*.svg",
+      "folder": "overlays"
+    },
+    "overlaySize": {
+      "max": 100,
+      "min": 5,
+      "step": 1,
+      "text": "Size",
+      "type": "slider",
+      "value": 25
+    },
+    "overlayEnabled": {
+      "type": "checkbox",
+      "value": false,
+      "text": "Enable"
     }
   }
 }

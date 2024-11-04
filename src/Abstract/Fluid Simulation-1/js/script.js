@@ -60,6 +60,7 @@ let config = {
 	SOUND_SENSITIVITY: 0.25,
 	FREQ_RANGE: 40,
 	FREQ_MULTI: 0.1,
+	CUSTOM_COLOR: false
 }
 
 var timer = setInterval(randomSplat, 3500);
@@ -101,10 +102,10 @@ function SucroseAudioData(obj) {
 	for (let i = 0; i <= config.FREQ_RANGE; i++)
 		bass += audioArray[i] * 2;
 
-	bass /= (config.FREQ_RANGE * 2) * config.FREQ_MULTI;
+	bass /= config.FREQ_RANGE * 2 * config.FREQ_MULTI;
 
-	multipleSplats(Math.floor((bass * config.SOUND_SENSITIVITY) * 10) - lastBass);
-	lastBass = (bass, Math.floor((bass * config.SOUND_SENSITIVITY) * 10));
+	multipleSplats(Math.floor(bass * config.SOUND_SENSITIVITY * 10) - lastBass);
+	lastBass = (bass, Math.floor(bass * config.SOUND_SENSITIVITY * 10));
 }
 
 function multipleSplats(amount) {
@@ -121,59 +122,26 @@ function multipleSplats(amount) {
 	}
 }
 
-function generateColor() {
-	let c = HSVtoRGB(Math.random(), 1.0, 1.0);
-	c.r *= 0.15;
-	c.g *= 0.15;
-	c.b *= 0.15;
-	return c;
-}
-
 let _randomSplats = false;
+
 let _audioReact = false;
-let _bgImageChk = false;
-let _bgImagePath = "wallpapers/pexels-neosiam-601798.jpg";
+let colorRange = ["#FF0000", "#FFFF00"];
+let colorConfig = null;
+
+let splatRadiusModulationEnabled = false;
+let baseRadius = config.SPLAT_RADIUS;
+
+let backgroundSrc = "wallpapers/pexels-neosiam-601798.jpg";
+let isBackground = false;
 
 function SucrosePropertyListener(name, val) {
 	switch (name) {
 		case "quality":
-			switch (val.value) {
-				case 0:
-					config.DYE_RESOLUTION = 1024;
-					break;
-				case 1:
-					config.DYE_RESOLUTION = 512;
-					break;
-				case 2:
-					config.DYE_RESOLUTION = 256;
-					break;
-				case 3:
-					config.DYE_RESOLUTION = 128;
-					break;
-				case 4:
-					config.DYE_RESOLUTION = 64;
-					break;
-			}
+			config.DYE_RESOLUTION = [1024, 512, 256, 128, 64][val.value];
 			initFramebuffers();
 			break;
 		case "simResolution":
-			switch (val.value) {
-				case 0:
-					config.SIM_RESOLUTION = 32;
-					break;
-				case 1:
-					config.SIM_RESOLUTION = 64;
-					break;
-				case 2:
-					config.SIM_RESOLUTION = 128;
-					break;
-				case 3:
-					config.SIM_RESOLUTION = 256;
-					break;
-				case 4:
-					config.SIM_RESOLUTION = 512;
-					break;
-			}
+			config.SIM_RESOLUTION = [32, 64, 128, 256, 512][val.value];
 			initFramebuffers();
 			break;
 		case "densityDiffusion":
@@ -209,23 +177,7 @@ function SucrosePropertyListener(name, val) {
 			updateKeywords();
 			break;
 		case "bloomResolution":
-			switch (val.value) {
-				case 0:
-					config.BLOOM_RESOLUTION = 32;
-					break;
-				case 1:
-					config.BLOOM_RESOLUTION = 64;
-					break;
-				case 2:
-					config.BLOOM_RESOLUTION = 128;
-					break;
-				case 3:
-					config.BLOOM_RESOLUTION = 256;
-					break;
-				case 4:
-					config.BLOOM_RESOLUTION = 512;
-					break;
-			}
+			config.BLOOM_RESOLUTION = [32, 64, 128, 256, 512][val.value];
 			break;
 		case "bloomIterations":
 			config.BLOOM_ITERATIONS = val.value;
@@ -246,24 +198,38 @@ function SucrosePropertyListener(name, val) {
 		case "sunRaysWeight":
 			config.SUNRAYS_WEIGHT = val.value / 100;
 			break;
-		case "bgColor":
-			const tmp = hexToRgb(val.value);
-			config.BACK_COLOR.r = tmp.r;
-			config.BACK_COLOR.g = tmp.g;
-			config.BACK_COLOR.b = tmp.b;
+		case "backgroundColor":
+			setBackgroundColor(val.value);
 			break;
-		case "bgImgChk":
-			_bgImageChk = val.value;
-			config.TRANSPARENT = val.value;
-			if (_bgImageChk) {
-				document.body.style.backgroundImage = "url(" + _bgImagePath.replace('\\', '/') + ")";
+		case "backgroundSrc":
+			backgroundSrc = val.folder.replace('\\', '/') + "/" + val.value.replace('\\', '/');
+			if (isBackground)
+				setBackground(val.folder.replace('\\', '/') + "/" + val.value.replace('\\', '/'));
+			break;
+		case "backgroundFit":
+			setBackgroundFit(val.value);
+			break;
+		case "backgroundEnabled":
+			isBackground = val.value;
+			if (isBackground) {
+				config.TRANSPARENT = true;
+				setBackground(backgroundSrc);
+			} else {
+				config.TRANSPARENT = false;
+				disposeBackgrounds();
 			}
 			break;
-		case "imgSelect":
-			_bgImagePath = val.folder.replace('\\', '/') + "/" + val.value.replace('\\', '/');
-			if (_bgImageChk) {
-				document.body.style.backgroundImage = "url(" + _bgImagePath.replace('\\', '/') + ")";
-			}
+		case "overlaySrc":
+			setOverlay(val.folder.replace('\\', '/') + "/" + val.value.replace('\\', '/'));
+			break;
+		case "overlaySize":
+			setOverlaySize(val.value);
+			break;
+		case "overlayEnabled":
+			toggleOverlay(val.value);
+			break;
+		case "useMouse":
+			_useMouse = val.value;
 			break;
 		case "randomSplats":
 			_randomSplats = val.value;
@@ -271,16 +237,146 @@ function SucrosePropertyListener(name, val) {
 		case "audioReact":
 			_audioReact = val.value;
 			break;
+		case "colorLeft":
+			colorRange[0] = "#" + val.value.substring(3);
+			break;
+		case "colorRight":
+			colorRange[1] = "#" + val.value.substring(3);
+			break;
+		case "customColor":
+			config.CUSTOM_COLOR = val.value;
+			break;
 	}
 }
 
+function setBackgroundColor(hex) {
+	const tmp = hexToRgb2(hex);
+	config.BACK_COLOR.r = tmp.r;
+	config.BACK_COLOR.g = tmp.g;
+	config.BACK_COLOR.b = tmp.b;
+	document.body.style.backgroundColor = hex;
+}
+
+function setOverlay(srcPath) {
+	if (srcPath == undefined || srcPath == null)
+		return;
+
+	document.getElementById('overlay').style.backgroundImage = `url('${srcPath}')`;
+}
+
+function setOverlaySize(size) {
+	let overlay = document.getElementById('overlay');
+	overlay.style.width = `${size}%`;
+	overlay.style.height = `${size}%`;
+}
+
+function toggleOverlay(val) {
+	document.getElementById('overlay').style.visibility = !val ? "hidden" : "visible";
+}
+
+function pauseVideoBackground(isPaused) {
+	let videoElement = document.getElementById('videoBackground');
+	if (videoElement != null && videoElement.hasAttribute("src")) {
+		if (isPaused)
+			videoElement.pause();
+		else
+			videoElement.play();
+	}
+}
+
+function setBackground(srcPath) {
+	if (srcPath == undefined || srcPath == null)
+		return;
+
+	let ext = getExtension(srcPath);
+	let videoElement = document.getElementById('videoBackground');
+
+	if (ext == "jpg" || ext == "jpeg" || ext == "png" || ext == "webp") {
+		disposeVideoElement(videoElement);
+		document.body.style.backgroundImage = `url('${srcPath}')`;
+	} else if (ext == "webm") {
+		document.body.style.backgroundImage = '';
+		videoElement.src = srcPath;
+		videoElement.play();
+	}
+}
+
+function disposeBackgrounds() {
+	document.body.style.backgroundImage = '';
+	disposeVideoElement(document.getElementById('videoBackground'));
+}
+
+function setBackgroundFit(index) {
+	document.getElementById('videoBackground').style.objectFit = ["contain", "cover", "fill", "none"][index];
+	document.body.style.backgroundSize = ["contain", "cover", "100% 100%", "auto"][index];
+}
+
+function getExtension(filePath) {
+	return filePath.substring(filePath.lastIndexOf(".") + 1, filePath.length) || filePath;
+}
+
 function hexToRgb(hex) {
+	let result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+	return result ? {
+			r: parseInt(result[1], 16),
+			g: parseInt(result[2], 16),
+			b: parseInt(result[3], 16),
+		} :
+		null;
+}
+
+function hexToRgb2(hex) {
 	let result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
 	return result ? {
 		r: parseInt(result[2], 16),
 		g: parseInt(result[3], 16),
 		b: parseInt(result[4], 16)
 	} : null;
+}
+
+//ref: https://stackoverflow.com/questions/3258587/how-to-properly-unload-destroy-a-video-element
+function disposeVideoElement(element) {
+	if (element != null && element.hasAttribute("src")) {
+		element.pause();
+		element.removeAttribute("src"); // empty source
+		element.load();
+	}
+}
+
+function RGBtoHSV(r, g, b) {
+	if (arguments.length === 1) {
+		g = r.g, b = r.b, r = r.r;
+	}
+	var max = Math.max(r, g, b),
+		min = Math.min(r, g, b),
+		d = max - min,
+		h,
+		s = (max === 0 ? 0 : d / max),
+		v = max / 255;
+
+	switch (max) {
+		case min:
+			h = 0;
+			break;
+		case r:
+			h = (g - b) + d * (g < b ? 6 : 0);
+			h /= 6 * d;
+			break;
+		case g:
+			h = (b - r) + d * 2;
+			h /= 6 * d;
+			break;
+		case b:
+			h = (r - g) + d * 4;
+			h /= 6 * d;
+			break;
+	}
+
+	return {
+		h: h,
+		s: s,
+		v: v
+	};
 }
 
 function pointerPrototype() {
@@ -1531,12 +1627,12 @@ function splatPointer(pointer) {
 
 function multipleSplats(amount) {
 	for (let i = 0; i < amount; i++) {
-		const color = generateColor();
+		const color = config.COLORFUL ? generateColor() : Object.assign({}, config.POINTER_COLOR.getRandom());
 		color.r *= 10.0;
 		color.g *= 10.0;
 		color.b *= 10.0;
-		const x = Math.random();
-		const y = Math.random();
+		const x = canvas.width * Math.random();
+		const y = canvas.height * Math.random();
 		const dx = 1000 * (Math.random() - 0.5);
 		const dy = 1000 * (Math.random() - 0.5);
 		splat(x, y, dx, dy, color);
@@ -1587,25 +1683,44 @@ function checkLastMove() {
 	return false;
 }
 
-canvas.addEventListener('mousemove', e => {
+let _isMouseDown = false;
+let _useMouse = 2;
 
-	if (checkLastMove()) {
-		let posX = scaleByPixelRatio(e.offsetX);
-		let posY = scaleByPixelRatio(e.offsetY);
-		let pointer = pointers.find(p => p.id == -1);
-		if (pointer == null)
-			pointer = new pointerPrototype();
-		updatePointerDownData(pointer, -1, posX, posY);
-	}
-
-	let pointer = pointers[0];
-	if (!pointer.down) return;
+canvas.addEventListener('mousedown', e => {
+	_isMouseDown = true;
+	/*
 	let posX = scaleByPixelRatio(e.offsetX);
 	let posY = scaleByPixelRatio(e.offsetY);
-	updatePointerMoveData(pointer, posX, posY);
+	let pointer = pointers.find(p => p.id == -1);
+	if (pointer == null)
+		pointer = new pointerPrototype();
+	updatePointerDownData(pointer, -1, posX, posY);
+    */
+});
+
+canvas.addEventListener("mousemove", (e) => {
+	if (_useMouse > 0) {
+		if (_useMouse == 2 || _isMouseDown) {
+			if (checkLastMove()) {
+				let posX = scaleByPixelRatio(e.offsetX);
+				let posY = scaleByPixelRatio(e.offsetY);
+				let pointer = pointers.find(p => p.id == -1);
+				if (pointer == null)
+					pointer = new pointerPrototype();
+				updatePointerDownData(pointer, -1, posX, posY);
+			}
+
+			let pointer = pointers[0];
+			if (!pointer.down) return;
+			let posX = scaleByPixelRatio(e.offsetX);
+			let posY = scaleByPixelRatio(e.offsetY);
+			updatePointerMoveData(pointer, posX, posY);
+		}
+	}
 });
 
 window.addEventListener('mouseup', () => {
+	_isMouseDown = false;
 	updatePointerUpData(pointers[0]);
 });
 
@@ -1690,9 +1805,52 @@ function correctDeltaY(delta) {
 
 function generateColor() {
 	let c = HSVtoRGB(Math.random(), 1.0, 1.0);
-	c.r *= 0.15;
-	c.g *= 0.15;
-	c.b *= 0.15;
+	if (!config.CUSTOM_COLOR) {
+		c.r *= 0.15;
+		c.g *= 0.15;
+		c.b *= 0.15;
+	} else {
+		let [colorLeft, colorRight] = colorRange;
+		try {
+			if (colorConfig !== null) {
+				const probabilityTotal = colorConfig.reduce((sum, c) => sum + c[0], 0);
+				let rand = Math.random() * probabilityTotal;
+				for (const c of colorConfig) {
+					rand -= c[0];
+					if (rand < 0) {
+						colorLeft = c[1];
+						colorRight = c[2];
+						break;
+					}
+				}
+			}
+			let l = RGBtoHSV(hexToRgb(colorLeft)),
+				r = RGBtoHSV(hexToRgb(colorRight)),
+				x;
+			if (r.s < l.s) {
+				x = r.s;
+				r.s = l.s;
+				l.s = x;
+			}
+			if (r.v < l.v) {
+				x = r.v;
+				r.v = l.v;
+				l.v = x;
+			}
+			if (r.h < l.h) {
+				r.h += 1;
+			}
+
+			x = Math.random() * (r.h - l.h) + l.h;
+			if (x > 1) {
+				x -= 1;
+			}
+			c = HSVtoRGB(x, Math.random() * (r.s - l.s) + l.s, (Math.random() * (r.v - l.v) + l.v) * 0.15);
+		} catch (error) {
+			console.log("Invalid color config", error);
+			c = hexToRgb("#000000");
+		}
+	}
 	return c;
 }
 
@@ -1706,29 +1864,29 @@ function HSVtoRGB(h, s, v) {
 
 	switch (i % 6) {
 		case 0:
-			r = v, g = t, b = p;
+			(r = v), (g = t), (b = p);
 			break;
 		case 1:
-			r = q, g = v, b = p;
+			(r = q), (g = v), (b = p);
 			break;
 		case 2:
-			r = p, g = v, b = t;
+			(r = p), (g = v), (b = t);
 			break;
 		case 3:
-			r = p, g = q, b = v;
+			(r = p), (g = q), (b = v);
 			break;
 		case 4:
-			r = t, g = p, b = v;
+			(r = t), (g = p), (b = v);
 			break;
 		case 5:
-			r = v, g = p, b = q;
+			(r = v), (g = p), (b = q);
 			break;
 	}
 
 	return {
 		r,
 		g,
-		b
+		b,
 	};
 }
 
@@ -1736,7 +1894,7 @@ function normalizeColor(input) {
 	let output = {
 		r: input.r / 255,
 		g: input.g / 255,
-		b: input.b / 255
+		b: input.b / 255,
 	};
 	return output;
 }
@@ -1787,4 +1945,4 @@ function hashCode(s) {
 		hash |= 0; // Convert to 32bit integer
 	}
 	return hash;
-};
+}
