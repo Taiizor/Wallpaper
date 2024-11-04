@@ -53,7 +53,7 @@ updateClock();
 
 function changeCSS() { //更换颜色
 	var obj = document.getElementById("cssstyle");
-	console.log(obj);
+
 	var box = document.getElementById("changeButton");
 
 	// currentStyle: IE下获取元素样式的值
@@ -78,7 +78,6 @@ function changeCSS() { //更换颜色
 
 function themeMode(index) {
 	var obj = document.getElementById("cssstyle");
-	console.log(obj);
 
 	if (index == 0) {
 		console.log("ChangeStyle1");
