@@ -102,24 +102,10 @@ function SucroseAudioData(obj) {
 	for (let i = 0; i <= config.FREQ_RANGE; i++)
 		bass += audioArray[i] * 2;
 
-	bass /= config.FREQ_RANGE * 2 * config.FREQ_MULTI;
+	bass /= (config.FREQ_RANGE * 2) * config.FREQ_MULTI;
 
-	multipleSplats(Math.floor(bass * config.SOUND_SENSITIVITY * 10) - lastBass);
-	lastBass = (bass, Math.floor(bass * config.SOUND_SENSITIVITY * 10));
-}
-
-function multipleSplats(amount) {
-	for (let i = 0; i < amount; i++) {
-		const color = config.COLORFUL ? generateColor() : Object.assign({}, config.POINTER_COLOR.getRandom());
-		color.r *= 10.0;
-		color.g *= 10.0;
-		color.b *= 10.0;
-		const x = canvas.width * Math.random();
-		const y = canvas.height * Math.random();
-		const dx = 1000 * (Math.random() - 0.5);
-		const dy = 1000 * (Math.random() - 0.5);
-		splat(x, y, dx, dy, color);
-	}
+	multipleSplats(Math.floor((bass * config.SOUND_SENSITIVITY) * 10) - lastBass);
+	lastBass = (bass, Math.floor((bass * config.SOUND_SENSITIVITY) * 10));
 }
 
 let _randomSplats = false;
@@ -1627,12 +1613,12 @@ function splatPointer(pointer) {
 
 function multipleSplats(amount) {
 	for (let i = 0; i < amount; i++) {
-		const color = config.COLORFUL ? generateColor() : Object.assign({}, config.POINTER_COLOR.getRandom());
+		const color = generateColor();
 		color.r *= 10.0;
 		color.g *= 10.0;
 		color.b *= 10.0;
-		const x = canvas.width * Math.random();
-		const y = canvas.height * Math.random();
+		const x = Math.random();
+		const y = Math.random();
 		const dx = 1000 * (Math.random() - 0.5);
 		const dy = 1000 * (Math.random() - 0.5);
 		splat(x, y, dx, dy, color);
@@ -1672,6 +1658,7 @@ function correctRadius(radius) {
 //         pointer = new pointerPrototype();
 //     updatePointerDownData(pointer, -1, posX, posY);
 // });
+
 let lastMove = -1;
 
 function checkLastMove() {
