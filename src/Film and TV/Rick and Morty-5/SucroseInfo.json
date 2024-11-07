@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.11.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Rick and Morty",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rick and Morty - Breaking Bad - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/movies/breaking-bad-rick-and-morty-live-wallpaper",
+  "Type": 3,
+  "Source": "rambb.mp4",
+  "Tags": null,
+  "Arguments": null
+}

@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.11.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Gangster SpongeBob and Patrick",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gangster SpongeBob and Patrick - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/movies/gangster-spongebob-and-patrick-live-wallpaper",
+  "Type": 3,
+  "Source": "gsbap.mp4",
+  "Tags": [
+    "Glasses",
+    "Fire",
+    "Gun"
+  ],
+  "Arguments": null
+}

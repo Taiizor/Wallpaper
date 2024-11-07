@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.11.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Black Cat Watching Sky",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Black Cat Watching Sky - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/animal/black-cat-watching-sky-live-wallpaper",
+  "Type": 3,
+  "Source": "bcws.mp4",
+  "Tags": [
+    "Shooting Star",
+    "Relaxing",
+    "Clouds"
+  ],
+  "Arguments": null
+}

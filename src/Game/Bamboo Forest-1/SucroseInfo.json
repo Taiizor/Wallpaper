@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Bamboo Forest",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Bamboo Forest - Black Myth: Wukong - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/bamboo-forest-wukong-live-wallpaper",
+  "Type": 3,
+  "Source": "bfbmw.mp4",
+  "Tags": [
+    "Sun Wukong",
+    "Trees"
+  ],
+  "Arguments": null
+}

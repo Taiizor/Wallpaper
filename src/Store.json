@@ -400,6 +400,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Black Cat Watching Sky-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cartoon Paris View-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -780,6 +786,42 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Red Smoke Goku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Asuka and Rei Evangelion-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Waterfall Meditation Goku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Destroyed City Rei Ayanami-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Obito x Ten Tails-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Sorasaki Hina-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Zoro's Fierce Focus-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2159,12 +2201,6 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": false
-        },
-        "HK416 Klukai-1": {
-          "Source": "src/Anime",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
         },
         "Qingyi-1": {
           "Source": "src/Anime",
@@ -4434,6 +4470,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Priestess Moon Night-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Public Safety Devil Hunter Aki-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -4943,6 +4985,12 @@
     },
     "Cute": {
       "Wallpapers": {
+        "Cute Girl with Forest Ghosts-1": {
+          "Source": "src/Cute",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Coffee Cat-1": {
           "Source": "src/Cute",
           "Cover": "thumbnail.jpg",
@@ -5023,6 +5071,12 @@
     },
     "Enchanted Forests": {
       "Wallpapers": {
+        "Magical Autumn Forest-1": {
+          "Source": "src/Enchanted Forests",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Fireflies Forest-1": {
           "Source": "src/Enchanted Forests",
           "Cover": "thumbnail.jpg",
@@ -5063,6 +5117,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Samurai Dragon Slayer-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Joan of Arc-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6373,6 +6433,18 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Rick and Morty-5": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Gangster SpongeBob and Patrick-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Mafia Mob SpongeBob SquarePants-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -6967,6 +7039,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "Angular Gyrus-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "HK416 Klukai-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Bamboo Forest-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Desert Sands-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -10418,6 +10508,18 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Alone at the Bus Stop-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Rain Anime School Girl-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sunset Boat Ride-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
