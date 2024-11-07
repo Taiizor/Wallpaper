@@ -2,12 +2,6 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
-        "Zoro's Fierce Focus-1": {
-          "Source": "src/Abstract",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
         "Stripescape-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -786,6 +780,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Zoro's Fierce Focus-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sukuna x Gojo-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
