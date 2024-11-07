@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Desert Sands",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Desert Sands - Signalis - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/desert-sands-signalis-live-wallpaper",
+  "Type": 3,
+  "Source": "dss.mp4",
+  "Tags": [
+    "Sandstorm"
+  ],
+  "Arguments": null
+}

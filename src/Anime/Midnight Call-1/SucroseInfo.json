@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.11.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Midnight Call",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Midnight Call - 5 Centimeters per Second - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/midnight-call-5-centimeters-per-second-live-wallpaper",
+  "Type": 3,
+  "Source": "mc5cps.mp4",
+  "Tags": [
+    "Cherry Blossom",
+    "Flower Petals",
+    "Sakura"
+  ],
+  "Arguments": null
+}

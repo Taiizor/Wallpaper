@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Zoro's Fierce Focus-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Stripescape-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -780,6 +786,54 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Sukuna x Gojo-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Itachi Cyberpunk Neon-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Inuyasha x Kagome-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Jiyan In The Rain-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Midnight Call-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Jinx 2.5D-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Katsuki Bakugo-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Makima In The Pool-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Obanai x Kaburamaru-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2453,12 +2507,6 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
-        },
-        "The Gaze of Signalis-1": {
-          "Source": "src/Anime",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
         },
         "Miyamoto After The Battle-1": {
           "Source": "src/Anime",
@@ -6912,6 +6960,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Desert Sands-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "The Gaze of Signalis-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Acheron Lightning Sword-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -11480,6 +11540,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Neon Horn Girl-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Cyberpunk Machine City-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",

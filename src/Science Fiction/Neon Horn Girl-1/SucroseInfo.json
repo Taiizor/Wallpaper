@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.11.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Neon Horn Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Neon Horn Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/neon-horn-girl",
+  "Type": 3,
+  "Source": "nhg.mp4",
+  "Tags": [
+    "Colorful Aura",
+    "Electric Glow",
+    "Cyberpunk"
+  ],
+  "Arguments": null
+}
