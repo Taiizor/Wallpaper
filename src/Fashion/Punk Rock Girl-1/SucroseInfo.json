@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Punk Rock Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Punk Rock Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/punk-rock-girl",
+  "Type": 3,
+  "Source": "prg.mp4",
+  "Tags": [
+    "Rebellious Style",
+    "Leather Jacket",
+    "Rock Fashion",
+    "Spiked Hair",
+    "Edgy Look"
+  ],
+  "Arguments": null
+}

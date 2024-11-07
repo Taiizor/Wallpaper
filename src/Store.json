@@ -6362,7 +6362,14 @@
       }
     },
     "Fashion": {
-      "Wallpapers": {}
+      "Wallpapers": {
+        "Punk Rock Girl-1": {
+          "Source": "src/Fashion",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        }
+      }
     },
     "Film and TV": {
       "Wallpapers": {
@@ -12937,6 +12944,12 @@
     },
     "War": {
       "Wallpapers": {
+        "Samurai Wars-1": {
+          "Source": "src/War",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Red Elite Team-1": {
           "Source": "src/War",
           "Cover": "thumbnail.jpg",
