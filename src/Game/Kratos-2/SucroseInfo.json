@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Kratos",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Kratos - God of War: Ragnarök - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/kratos-god-of-war-ragnarok-live-wallpaper",
+  "Type": 3,
+  "Source": "kgowr.mp4",
+  "Tags": [
+    "Ragnarok",
+    "Tattoo"
+  ],
+  "Arguments": null
+}

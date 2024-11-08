@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Samurai Revenge",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Samurai Revenge - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/samurai-revenge-live-wallpaper",
+  "Type": 3,
+  "Source": "sr.mp4",
+  "Tags": [
+    "Thunderstorm",
+    "Lightning",
+    "Raining",
+    "Storm",
+    "Trees"
+  ],
+  "Arguments": null
+}

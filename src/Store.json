@@ -4470,6 +4470,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Dragon Oni Samurai Symbol-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Priestess Moon Night-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -4706,6 +4712,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Chibi Deadpool-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Spray Can Miles-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -5117,6 +5129,18 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Kenshin Samurai Anime Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Samurai Revenge-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Samurai Dragon Slayer-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -7039,6 +7063,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "Kratos-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Sunset-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Marvel's Guardians of the Galaxy-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Angular Gyrus-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9713,6 +9755,12 @@
     },
     "Geometric Patterns": {
       "Wallpapers": {
+        "Neon Hexagon Magma-1": {
+          "Source": "src/Geometric Patterns",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Neon Geometry Shapes-1": {
           "Source": "src/Geometric Patterns",
           "Cover": "thumbnail.jpg",
@@ -11197,6 +11245,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Crystal Tree-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Fall Garden-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
@@ -11649,6 +11703,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Astronaut Floating in Front of Phone Box-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Neon Horn Girl-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
@@ -11903,6 +11963,12 @@
     },
     "Sky": {
       "Wallpapers": {
+        "Castle on the Sky-1": {
+          "Source": "src/Sky",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sky Series-1": {
           "Source": "src/Sky",
           "Cover": "thumbnail.jpg",
@@ -11941,6 +12007,12 @@
     },
     "Space": {
       "Wallpapers": {
+        "Space Loop-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sagittarius Space-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
@@ -12057,6 +12129,12 @@
     },
     "Superheroes": {
       "Wallpapers": {
+        "Batman-4": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Iron Man Aesthetic Red-1": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
@@ -12463,6 +12541,18 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Mazda RX-7 FD-2": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Ferrari FXX-K-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Night Traffic-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

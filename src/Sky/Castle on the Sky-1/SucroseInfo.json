@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Castle on the Sky",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Castle on the Sky - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/castle-on-the-sky-live-wallpaper",
+  "Type": 3,
+  "Source": "cots.mp4",
+  "Tags": [
+    "Reflection",
+    "Clouds",
+    "Trees"
+  ],
+  "Arguments": null
+}

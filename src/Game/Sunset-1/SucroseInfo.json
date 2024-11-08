@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Sunset",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sunset - Minecraft - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/minecraft-sunset-live-wallpaper",
+  "Type": 3,
+  "Source": "sm.mp4",
+  "Tags": [
+    "Chilling",
+    "River",
+    "Steve",
+    "Trees",
+    "Alex"
+  ],
+  "Arguments": null
+}

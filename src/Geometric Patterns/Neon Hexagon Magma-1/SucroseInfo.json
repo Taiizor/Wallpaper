@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Neon Hexagon Magma",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Neon Hexagon Magma - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/neon-hexagon-magma-live-wallpaper",
+  "Type": 3,
+  "Source": "nhm.mp4",
+  "Tags": [
+    "Abstraction",
+    "Glowing",
+    "Pattern",
+    "Shape"
+  ],
+  "Arguments": null
+}

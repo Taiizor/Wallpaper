@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Ferrari FXX-K",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ferrari FXX-K - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/vehicle/ferrari-fxx-k-live-wallpaper",
+  "Type": 3,
+  "Source": "ffxxk.mp4",
+  "Tags": [
+    "Silver Car",
+    "Super Car",
+    "Glowing",
+    "Raining",
+    "Smoke"
+  ],
+  "Arguments": null
+}

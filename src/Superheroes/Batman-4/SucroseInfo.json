@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Batman",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Batman - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/batman-2-live-wallpaper",
+  "Type": 3,
+  "Source": "b.mp4",
+  "Tags": [
+    "The Dark Knight"
+  ],
+  "Arguments": null
+}

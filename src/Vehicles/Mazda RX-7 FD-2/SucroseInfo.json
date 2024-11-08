@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Mazda RX-7 FD",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mazda RX-7 FD - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/vehicle/mazda-rx-7-fd-2-live-wallpaper",
+  "Type": 3,
+  "Source": "mrx7fd.mp4",
+  "Tags": [
+    "Sport Cars",
+    "Raining",
+    "Retro",
+    "Neon",
+    "Car"
+  ],
+  "Arguments": null
+}

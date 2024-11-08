@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Chibi Deadpool",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Chibi Deadpool - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/comics/chibi-deadpool-live-wallpaper",
+  "Type": 3,
+  "Source": "cd.mp4",
+  "Tags": [
+    "Red Costume",
+    "Raining"
+  ],
+  "Arguments": null
+}
