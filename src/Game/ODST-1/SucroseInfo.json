@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "ODST",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Halo 3: ODST - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/halo-3-odst-live-wallpaper",
+  "Type": 3,
+  "Source": "h3odst.mp4",
+  "Tags": [
+    "Raining",
+    "Gloomy",
+    "Armor",
+    "Rifle",
+    "Gun"
+  ],
+  "Arguments": null
+}

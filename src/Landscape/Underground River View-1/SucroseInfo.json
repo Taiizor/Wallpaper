@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Underground River View",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Underground River View - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/underground-river-view-live-wallpaper",
+  "Type": 3,
+  "Source": "urv.mp4",
+  "Tags": [
+    "Cherry Blossom",
+    "Nature",
+    "Sakura",
+    "Water",
+    "Cave"
+  ],
+  "Arguments": null
+}

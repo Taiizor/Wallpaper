@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Moon Knight",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Moon Knight - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/moon-knight-live-wallpaper",
+  "Type": 3,
+  "Source": "mk.mp4",
+  "Tags": [
+    "Superhero",
+    "Marvel"
+  ],
+  "Arguments": null
+}

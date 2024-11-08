@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Batman Watching Over Gotham",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Batman Watching Over Gotham - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/batman-watching-over-gotham-live-wallpaper",
+  "Type": 3,
+  "Source": "bwog.mp4",
+  "Tags": [
+    "The Dark Knight",
+    "Superhero",
+    "Top View",
+    "Arkham"
+  ],
+  "Arguments": null
+}

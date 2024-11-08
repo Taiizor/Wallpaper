@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Nahida",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Nahida - Genshin Impact - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/nahida-genshin-impact-live-wallpaper",
+  "Type": 3,
+  "Source": "ngi.mp4",
+  "Tags": [
+    "Lesser Lord Kusanali",
+    "Physic of Purity",
+    "Pointed Ears",
+    "Green Eyes",
+    "White Hair"
+  ],
+  "Arguments": null
+}

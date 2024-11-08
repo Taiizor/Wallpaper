@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Sunset City Street Pixel",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sunset City Street Pixel - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/pixel-art/sunset-city-street-pixel-live-wallpaper",
+  "Type": 3,
+  "Source": "scsp.mp4",
+  "Tags": [
+    "Chillhop",
+    "Lofi"
+  ],
+  "Arguments": null
+}

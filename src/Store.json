@@ -4470,6 +4470,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "The Batman-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dragon Oni Samurai Symbol-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -6457,6 +6463,24 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Alien vs Predator-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Dark Lord Sauron-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Moon Knight-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Rick and Morty-5": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -6939,6 +6963,12 @@
     },
     "Galaxy": {
       "Wallpapers": {
+        "Chaos Nebula-1": {
+          "Source": "src/Galaxy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Black Hole Flares-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
@@ -7063,6 +7093,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "Batman Watching Over Gotham-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "ODST-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Nahida-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Kratos-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -10060,6 +10108,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Underground River View-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dawn of Humanity-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -11403,6 +11457,12 @@
     },
     "Pixel Art": {
       "Wallpapers": {
+        "Sunset City Street Pixel-1": {
+          "Source": "src/Pixel Art",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Pixel-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",

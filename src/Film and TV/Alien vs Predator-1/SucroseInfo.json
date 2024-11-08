@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Alien vs Predator",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Alien vs Predator - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/alien-vs-predator-live-wallpaper",
+  "Type": 3,
+  "Source": "avsp.mp4",
+  "Tags": [
+    "Science Fiction",
+    "Military",
+    "Monster",
+    "Army",
+    "War"
+  ],
+  "Arguments": null
+}

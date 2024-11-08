@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "The Batman",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The Batman - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/the-batman-monochrome-live-wallpaper",
+  "Type": 3,
+  "Source": "tb.mp4",
+  "Tags": [
+    "Robert Pattinson",
+    "Monochrome",
+    "Vengeance",
+    "Batsuit",
+    "Raining"
+  ],
+  "Arguments": null
+}

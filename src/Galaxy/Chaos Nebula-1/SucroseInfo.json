@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Chaos Nebula",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Chaos Nebula - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/chaos-nebula-live-wallpaper",
+  "Type": 3,
+  "Source": "cn.mp4",
+  "Tags": [
+    "Colorful",
+    "Space"
+  ],
+  "Arguments": null
+}

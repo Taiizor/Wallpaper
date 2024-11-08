@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Dark Lord Sauron",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dark Lord Sauron - The Lord of the Rings - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/sauron-the-lord-of-the-rings-live-wallpaper",
+  "Type": 3,
+  "Source": "dlstlotr.mp4",
+  "Tags": [
+    "Fire Smoke",
+    "Mountains",
+    "Volcano",
+    "Armor",
+    "Cape"
+  ],
+  "Arguments": null
+}
