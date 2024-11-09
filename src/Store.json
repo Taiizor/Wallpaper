@@ -11753,6 +11753,12 @@
           "Live": "preview.gif",
           "Adult": false
         },
+        "Periodic Table-2": {
+          "Source": "src/Science",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Periodic Table-1": {
           "Source": "src/Science",
           "Cover": "thumbnail.jpg",

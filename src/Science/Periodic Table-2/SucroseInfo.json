@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Periodic Table",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "This animated wallpaper features the Periodic Table of Elements, presented in a sleek, interactive format. Each element is highlighted, providing an engaging and educational visual experience.",
+  "Author": "Dr.Z",
+  "License": null,
+  "Contact": "https://steamcommunity.com/profiles/76561198091855151",
+  "Type": 2,
+  "Source": "Table.html",
+  "Tags": [
+    "Chemical"
+  ],
+  "Arguments": null
+}
