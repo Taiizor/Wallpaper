@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.11.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Blue Bird",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Blue Bird - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/lifestyle/blue-bird-live-wallpaper",
+  "Type": 3,
+  "Source": "bb.mp4",
+  "Tags": null,
+  "Arguments": null
+}
