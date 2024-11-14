@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.11.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Meditating",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Meditating - Ghost of Tsushima - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/meditating-ghost-of-tsushima-live-wallpaper",
+  "Type": 3,
+  "Source": "mgot.mp4",
+  "Tags": [
+    "Straw Hat",
+    "Night",
+    "Cape"
+  ],
+  "Arguments": null
+}

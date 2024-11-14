@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Sarkaz",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sarkaz - Arknights - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/sarkaz-arknights-live-wallpaper",
+  "Type": 3,
+  "Source": "sa.mp4",
+  "Tags": [
+    "White Hair",
+    "Horns"
+  ],
+  "Arguments": null
+}

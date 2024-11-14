@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Hatsune Miku Fireworks",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Hatsune Miku Fireworks - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/miku-fireworks-live-wallpaper",
+  "Type": 3,
+  "Source": "hmf.mp4",
+  "Tags": [
+    "White Dress",
+    "Twintails",
+    "Vocaloid",
+    "Water",
+    "Sky"
+  ],
+  "Arguments": null
+}

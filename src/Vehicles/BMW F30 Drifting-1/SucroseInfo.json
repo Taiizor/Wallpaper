@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.11.0",
+  "Version": "1.0.0.0",
+  "Title": "BMW F30 Drifting",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "BMW F30 Drifting - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/vehicle/bmw-f30-drifting-live-wallpaper",
+  "Type": 3,
+  "Source": "bmwf30d.mp4",
+  "Tags": [
+    "Car"
+  ],
+  "Arguments": null
+}

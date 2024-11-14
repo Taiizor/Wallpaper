@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Lighter",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lighter - Zenless Zone Zero - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/lighter-zenless-zone-zero-live-wallpaper",
+  "Type": 3,
+  "Source": "lzzz.mp4",
+  "Tags": [
+    "Sunglasses"
+  ],
+  "Arguments": null
+}

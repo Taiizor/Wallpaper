@@ -786,6 +786,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Hatsune Miku Fireworks-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Military Anime Girl Smoking-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Lighter-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Sarkaz-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Yanagi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Red Smoke Goku-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4470,6 +4500,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Miyamoto Musashi Katana-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "The Batman-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -7093,6 +7129,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Meditating-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Batman Watching Over Gotham-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -11539,6 +11581,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Purple Neon Samurai-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Neon 3D Itachi-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
@@ -12399,6 +12447,12 @@
     },
     "Technology": {
       "Wallpapers": {
+        "Red Code Hacker-1": {
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Hacker Workstation-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
@@ -12607,6 +12661,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "BMW F30 Drifting-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Mazda RX-7 FD-2": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

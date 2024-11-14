@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Yanagi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Yanagi - Zenless Zone Zero - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/yanagi-zenless-zone-zero-live-wallpaper",
+  "Type": 3,
+  "Source": "yzzz.mp4",
+  "Tags": [
+    "Pink Hair",
+    "Glasses"
+  ],
+  "Arguments": null
+}
