@@ -786,6 +786,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Chihiro and Haku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Sukuna and Gojo-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ruins-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Hatsune Miku Fireworks-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4500,6 +4518,18 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Hero Hunter Garou-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Moon Shadow Zoro-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Miyamoto Musashi Katana-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -7129,6 +7159,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Swing Nahida-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Meditating-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
