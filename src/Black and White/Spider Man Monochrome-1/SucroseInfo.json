@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Spider Man Monochrome",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Spider Man Monochrome - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/spider-man-monochrome-live-wallpaper",
+  "Type": 3,
+  "Source": "smm.mp4",
+  "Tags": [
+    "Spider-Man",
+    "Super Hero",
+    "Comics",
+    "Hoodie",
+    "Marvel"
+  ],
+  "Arguments": null
+}

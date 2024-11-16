@@ -786,6 +786,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Goku x Krillin x Master Roshi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "The Shorekeeper Blue Butterfly-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Camellya-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blue Eyes Anime Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4542,6 +4560,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Spider Man Monochrome-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Torii-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
