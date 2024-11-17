@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Wind Chimes",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Wind Chimes - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/lifestyle/wind-chimes-live-wallpaper",
+  "Type": 3,
+  "Source": "wc.mp4",
+  "Tags": null,
+  "Arguments": null
+}

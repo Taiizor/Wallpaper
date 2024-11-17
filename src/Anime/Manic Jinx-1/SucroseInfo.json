@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Manic Jinx",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Manic Jinx - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/ultrawide-3440x1440/manic-jinx-live-wallpaper",
+  "Type": 3,
+  "Source": "mj.mp4",
+  "Tags": [
+    "League of Legends"
+  ],
+  "Arguments": null
+}

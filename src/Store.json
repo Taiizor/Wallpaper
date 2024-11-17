@@ -786,6 +786,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Red Eyes Crows Itachi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Manic Jinx-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kusanagi Nene-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Cat Girl in Forest-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Tragic Obito-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Goku x Krillin x Master Roshi-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -6589,6 +6619,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Rain-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Alien vs Predator-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -10760,6 +10796,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Wind Chimes-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blue Bird-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -11455,6 +11497,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Sunbeam Forest-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "River Bridge-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
@@ -11937,6 +11985,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Cyberpunk Cat Girl-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Astronaut Floating in Front of Phone Box-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
