@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Ferrari Daytona SP3",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ferrari Daytona SP3 - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Ferrari-Daytona",
+  "Type": 3,
+  "Source": "fdsp3.mp4",
+  "Tags": [
+    "Automobile",
+    "Luxury",
+    "Cool",
+    "Girl",
+    "Car"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Shinano Racing Car",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Shinano Racing Car - Azur Lane - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/azur-lane-car",
+  "Type": 3,
+  "Source": "srcal.mp4",
+  "Tags": [
+    "Fantasy",
+    "Anime",
+    "Walfu"
+  ],
+  "Arguments": null
+}

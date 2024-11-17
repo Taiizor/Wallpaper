@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Space Window Ambience",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Space Window Ambience - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Space-Window-Ambience",
+  "Type": 3,
+  "Source": "swa.mp4",
+  "Tags": [
+    "Galactic Window",
+    "Celestial View"
+  ],
+  "Arguments": null
+}

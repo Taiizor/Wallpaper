@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Lamborghini",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lamborghini - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/lamborghini-car-live-wallpaper",
+  "Type": 3,
+  "Source": "l.mp4",
+  "Tags": [
+    "Automobile",
+    "Autumn",
+    "Yellow",
+    "Car"
+  ],
+  "Arguments": null
+}

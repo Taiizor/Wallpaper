@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Space Tornado-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Stripescape-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -7255,6 +7261,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Juggernaut Sword-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Dazzle-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sakura Petals Yae Miko-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -10133,6 +10151,12 @@
     },
     "Horror": {
       "Wallpapers": {
+        "Scary Shark-1": {
+          "Source": "src/Horror",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Oni Anime Girl-1": {
           "Source": "src/Horror",
           "Cover": "thumbnail.jpg",
@@ -11667,6 +11691,12 @@
     },
     "Pixel Art": {
       "Wallpapers": {
+        "Pixel-2": {
+          "Source": "src/Pixel Art",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sunset City Street Pixel-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",
@@ -11985,6 +12015,18 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Water Room Dreamscape-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Space Window Ambience-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cyberpunk Cat Girl-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
@@ -12621,6 +12663,12 @@
     },
     "Technology": {
       "Wallpapers": {
+        "ROG-1": {
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Red Code Hacker-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
@@ -12835,6 +12883,60 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Hoonicorn-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Honda Civic FK8-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Nissan Silvia S15-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Lamborghini-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Ferrari Daytona SP3-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kurena and Race Car-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Hot Summer-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Street Racer Girl-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Shinano Racing Car-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "BMW F30 Drifting-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
