@@ -930,6 +930,12 @@
           "Live": "preview.gif",
           "Adult": true
         },
+        "Rei Ayanami-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Destroyed City Rei Ayanami-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
