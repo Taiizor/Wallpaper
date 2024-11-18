@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Godfrey",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Godfrey - Elden Ring - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/godfrey-elden-ring-live-wallpaper",
+  "Type": 3,
+  "Source": "ger.mp4",
+  "Tags": [
+    "First Elden Lord",
+    "Hoarah Loux",
+    "Warrior",
+    "Armor",
+    "Lion"
+  ],
+  "Arguments": null
+}

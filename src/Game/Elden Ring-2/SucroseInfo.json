@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Elden Ring",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Elden Ring - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/elden-ring-3-live-wallpaper",
+  "Type": 3,
+  "Source": "er.mp4",
+  "Tags": [
+    "Logo"
+  ],
+  "Arguments": null
+}

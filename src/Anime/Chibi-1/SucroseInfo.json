@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Chibi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Chibi - Bocchi the Rock! - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/sakurako-blue-archive-live-wallpaper",
+  "Type": 3,
+  "Source": "cbtr.mp4",
+  "Tags": [
+    "Nijika Ijichi",
+    "Hitori Gotoh",
+    "Kessoku Band",
+    "Ikuyo Kita",
+    "Ryo Yamada"
+  ],
+  "Arguments": null
+}

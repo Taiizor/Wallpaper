@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Blackwing Valkyrie",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Blackwing Valkyrie - Elden Ring - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/blackwing-valkyrie-elden-ring-live-wallpaper",
+  "Type": 3,
+  "Source": "bver.mp4",
+  "Tags": [
+    "Medieval",
+    "Wings"
+  ],
+  "Arguments": null
+}

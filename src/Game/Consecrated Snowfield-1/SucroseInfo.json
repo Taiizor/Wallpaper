@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Consecrated Snowfield",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Consecrated Snowfield - Elden Ring - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/malenia-blade-of-miquella-elden-ring-live-wallpaper",
+  "Type": 3,
+  "Source": "cser.mp4",
+  "Tags": [
+    "Horseman",
+    "Forest",
+    "Field",
+    "Snow"
+  ],
+  "Arguments": null
+}

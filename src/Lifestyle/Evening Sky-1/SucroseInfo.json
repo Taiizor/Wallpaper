@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Evening Sky",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Evening Sky - The Garden of Words - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/evening-sky-the-garden-of-words-live-wallpaper",
+  "Type": 3,
+  "Source": "estgow.mp4",
+  "Tags": [
+    "Kotonoha No Niwa",
+    "Shooting Star",
+    "Clouds",
+    "Moon"
+  ],
+  "Arguments": null
+}
