@@ -792,6 +792,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Zen Goku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Flow of Water-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Chibi-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4904,6 +4916,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Bat Wings-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Chibi Deadpool-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -5321,6 +5339,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Snow Knight-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Kenshin Samurai Anime Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6649,6 +6673,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Aftermath Joker-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Rain-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
