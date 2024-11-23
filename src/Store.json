@@ -792,6 +792,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Byakuya-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Stoic Itachi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Vi vs Warwick-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Camellia Waiting In The Rain-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Zen Goku-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4632,6 +4656,18 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Duel-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Final Getsuga Tensho-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Spider Man Monochrome-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -7315,6 +7351,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Samurai-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Consecrated Snowfield-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

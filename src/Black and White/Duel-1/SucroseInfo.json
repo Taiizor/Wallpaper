@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Duel",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Duel - Vagabond - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/fantasy/duel-vagabond-live-wallpaper",
+  "Type": 3,
+  "Source": "dv.mp4",
+  "Tags": [
+    "Anime"
+  ],
+  "Arguments": null
+}

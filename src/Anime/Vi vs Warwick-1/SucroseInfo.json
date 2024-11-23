@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Vi vs Warwick",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Vi vs Warwick - Arcane - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/vi-vs-warwick-arcane-live-wallpaper",
+  "Type": 3,
+  "Source": "vivswa.mp4",
+  "Tags": [
+    "League of Legends"
+  ],
+  "Arguments": null
+}
