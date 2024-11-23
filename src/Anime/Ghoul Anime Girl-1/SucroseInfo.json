@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Ghoul Anime Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ghoul Anime Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/ghoul-anime-girl-live-wallpaper",
+  "Type": 3,
+  "Source": "gag.mp4",
+  "Tags": [
+    "Red Eyes"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Anime Girl Summer",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Anime Girl Summer - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/anime-girl-summer-live-wallpaper",
+  "Type": 3,
+  "Source": "ags.mp4",
+  "Tags": [
+    "Flower Petals",
+    "White Dress",
+    "Straw Hat",
+    "Water",
+    "Dove"
+  ],
+  "Arguments": null
+}
