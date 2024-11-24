@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Master Chief Halo Combat Evolved Anniversary",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Master Chief Halo Combat Evolved Anniversary - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/master-chief-halo-combat-evolved-anniversary-live-wallpaper",
+  "Type": 3,
+  "Source": "mchcea.mp4",
+  "Tags": [
+    "Fighter Aircraft",
+    "John-117",
+    "Spartan",
+    "Cyborg",
+    "Armor"
+  ],
+  "Arguments": null
+}

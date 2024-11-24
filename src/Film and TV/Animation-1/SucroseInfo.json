@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Animation",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Animation - Halo - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Halo-TV-Series-Animation-Wallpaper-4K",
+  "Type": 3,
+  "Source": "ah.mp4",
+  "Tags": [
+    "Master Chief",
+    "John-117",
+    "Spartan"
+  ],
+  "Arguments": null
+}

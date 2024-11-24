@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Infinite",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Infinite - Halo - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/halo-infinite-3-live-wallpaper",
+  "Type": 3,
+  "Source": "ih.mp4",
+  "Tags": [
+    "Master Chief",
+    "Spartan",
+    "Helmet",
+    "Night",
+    "Stars"
+  ],
+  "Arguments": null
+}

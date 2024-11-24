@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Halo",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Halo - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/halo-live-wallpaper",
+  "Type": 3,
+  "Source": "h.mp4",
+  "Tags": [
+    "Master Chief",
+    "John-117",
+    "Spartan",
+    "Cyborg",
+    "Armor"
+  ],
+  "Arguments": null
+}

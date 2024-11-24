@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.11.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Halo Echoes 5 The Champion",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Halo Echoes 5 The Champion - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/halo-echoes-5-the-champion-live-wallpaper",
+  "Type": 3,
+  "Source": "he5tc.mp4",
+  "Tags": [
+    "Master Chief",
+    "John-117",
+    "Spartan",
+    "Cyborg",
+    "Stars"
+  ],
+  "Arguments": null
+}
