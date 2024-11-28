@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.11.27.0",
+  "Version": "1.0.0.0",
+  "Title": "Viktor",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Viktor - Arcane - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/movies/viktor-arcane-live-wallpaper",
+  "Type": 3,
+  "Source": "va.mp4",
+  "Tags": [
+    "League of Legends"
+  ],
+  "Arguments": null
+}

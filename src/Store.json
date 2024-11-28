@@ -792,6 +792,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Dragon Clan Kassel Gate-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Firefly Flower Bride-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kid Goku on a Cloud-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Kurama Nine Tails Fox and Naruto-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Viktor-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Winter Anime Girl Crying In The Snow-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5483,6 +5513,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Mysterious Lone Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Snow Knight-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -7465,6 +7501,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Angry Kratos-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Helmet-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -11132,6 +11174,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "School Girl Night Stars-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Evening Sky-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
