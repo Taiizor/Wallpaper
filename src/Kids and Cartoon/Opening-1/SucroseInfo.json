@@ -1,15 +1,18 @@
 {
   "AppVersion": "24.11.26.0",
-  "Version": "1.0.0.1",
+  "Version": "1.0.0.2",
   "Title": "Opening",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
   "Description": "Opening - Adventure Time - Live Wallpaper",
-  "Author": "FUJITSU",
+  "Author": "AI Upscale (FUJITSU)",
   "License": null,
-  "Contact": "https://www.youtube.com/watch?v=jCnVZt56dQo",
+  "Contact": "https://www.youtube.com/@AIUpscale",
   "Type": 3,
   "Source": "oat.mp4",
-  "Tags": null,
+  "Tags": [
+    "Finn",
+    "Jake"
+  ],
   "Arguments": null
 }

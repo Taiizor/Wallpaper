@@ -406,6 +406,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Cat Floating On The Water-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Black Cat Watching Sky-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -792,6 +798,48 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Uchiha Itachi Akatsuki-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Arona Blushing-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Jinx-3": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Jinx-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Camellya Swinging-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ruins-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Minori Morning Coffee-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dragon Clan Kassel Gate-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4794,6 +4842,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Musashi Miyamoto-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Duel-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -7501,6 +7555,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "Sparkle Trash Can Dance-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Steam Autumn Sale 2024-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Steam Autumn Sale 2024-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Angry Kratos-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -10570,7 +10642,7 @@
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
-          "Adult": false
+          "Adult": true
         },
         "Sonic the Hedgehog-1": {
           "Source": "src/Kids and Cartoon",
@@ -12151,6 +12223,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Goku and Shattering Rose Field-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Purple Neon Samurai-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
