@@ -798,6 +798,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Shiroha Naruse-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Obito Kamui-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Jinx-4": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Neko Anime Girl In The Rain-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Uchiha Itachi Akatsuki-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5567,6 +5591,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Resting Lone Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Mysterious Lone Samurai-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6897,6 +6927,12 @@
     },
     "Fashion": {
       "Wallpapers": {
+        "LV Cat-1": {
+          "Source": "src/Fashion",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Punk Rock Girl-1": {
           "Source": "src/Fashion",
           "Cover": "thumbnail.jpg",
@@ -7555,6 +7591,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "The Uncaged Wrath of Zaun Warwick-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sparkle Trash Can Dance-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -11965,6 +12007,18 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Full Moon Torii-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Old Wooden Jetty-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sunbeam Forest-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",

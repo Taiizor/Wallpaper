@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.11.27.0",
+  "Version": "1.0.0.0",
+  "Title": "Jinx",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Jinx - Arcane - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/jinx-arcane-2-2-live-wallpaper",
+  "Type": 3,
+  "Source": "ja.mp4",
+  "Tags": [
+    "League of Legends",
+    "Glowing Eyes",
+    "Hoodie"
+  ],
+  "Arguments": null
+}

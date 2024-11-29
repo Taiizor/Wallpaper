@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.11.27.0",
+  "Version": "1.0.0.0",
+  "Title": "LV Cat",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "LV Cat - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/cute/lv-cat-live-wallpaper",
+  "Type": 3,
+  "Source": "lvc.mp4",
+  "Tags": [
+    "Animal",
+    "Cute"
+  ],
+  "Arguments": null
+}
