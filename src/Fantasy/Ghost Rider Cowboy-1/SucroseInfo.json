@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Ghost Rider Cowboy",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ghost Rider Cowboy - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/ghost-rider-cowboy-live-wallpaper",
+  "Type": 3,
+  "Source": "grc.mp4",
+  "Tags": [
+    "Monochrome",
+    "Moonlight",
+    "Cemetery",
+    "Horseman",
+    "Crow"
+  ],
+  "Arguments": null
+}

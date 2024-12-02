@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Blue Light In The Dark",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Blue Light In The Dark - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/blue-light-in-the-dark-live-wallpaper",
+  "Type": 3,
+  "Source": "blitd.mp4",
+  "Tags": [
+    "Horseman",
+    "Medieval",
+    "Glowing"
+  ],
+  "Arguments": null
+}

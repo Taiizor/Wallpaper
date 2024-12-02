@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Dark Angel",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dark Angel - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/dark-angel-live-wallpaper",
+  "Type": 3,
+  "Source": "da.mp4",
+  "Tags": [
+    "Dark Night",
+    "Fantasy",
+    "Raining",
+    "Scary",
+    "Girl"
+  ],
+  "Arguments": null
+}

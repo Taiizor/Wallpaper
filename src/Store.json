@@ -5615,6 +5615,42 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Blue Light In The Dark-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Eclipse Dark All Day-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Niul Dark Side-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ghost Rider Cowboy-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Japanese Samurai Oni Mask-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Unimaginable Beautiful Dark Angel-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Resting Lone Samurai-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -7615,6 +7651,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Skull Flower-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fall of Cybertron-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -10649,6 +10691,12 @@
     },
     "Horror": {
       "Wallpapers": {
+        "Dark Angel-1": {
+          "Source": "src/Horror",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Scary Shark-1": {
           "Source": "src/Horror",
           "Cover": "thumbnail.jpg",
