@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Kenshin Straw Hat",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Kenshin Straw Hat - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/kenshin-straw-hat-live-wallpaper",
+  "Type": 3,
+  "Source": "ksh.mp4",
+  "Tags": [
+    "Chinese",
+    "Raining",
+    "Samurai",
+    "Katana",
+    "Sword"
+  ],
+  "Arguments": null
+}

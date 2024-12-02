@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Fantasy Girl Flowers",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fantasy Girl Flowers - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/fantasy-girl-flowers-live-wallpaper",
+  "Type": 3,
+  "Source": "fgf.mp4",
+  "Tags": [
+    "Animal Ears"
+  ],
+  "Arguments": null
+}

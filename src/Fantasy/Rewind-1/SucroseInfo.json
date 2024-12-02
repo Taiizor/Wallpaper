@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Rewind",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rewind - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/rewind-live-wallpaper",
+  "Type": 3,
+  "Source": "r.mp4",
+  "Tags": [
+    "Reflection",
+    "Stars",
+    "Deer"
+  ],
+  "Arguments": null
+}

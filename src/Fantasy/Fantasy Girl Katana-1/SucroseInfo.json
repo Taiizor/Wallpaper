@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Fantasy Girl Katana",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fantasy Girl Katana - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/fantasy-girl-katana-live-wallpaper",
+  "Type": 3,
+  "Source": "fgk.mp4",
+  "Tags": [
+    "Samurai",
+    "Sword"
+  ],
+  "Arguments": null
+}

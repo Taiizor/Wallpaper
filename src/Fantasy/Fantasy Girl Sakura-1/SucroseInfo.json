@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Fantasy Girl Sakura",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fantasy Girl Sakura - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/fantasy-girl-sakura-live-wallpaper",
+  "Type": 3,
+  "Source": "fgs.mp4",
+  "Tags": [
+    "Traditional Clothes",
+    "Cherry Blossom",
+    "Lying Down",
+    "Trees",
+    "Pet"
+  ],
+  "Arguments": null
+}

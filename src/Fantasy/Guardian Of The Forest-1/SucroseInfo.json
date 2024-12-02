@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Guardian Of The Forest",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Guardian Of The Forest - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/guardian-of-the-forest-live-wallpaper",
+  "Type": 3,
+  "Source": "gotf.mp4",
+  "Tags": [
+    "Sunlight",
+    "Birds",
+    "Grass",
+    "Trees",
+    "Girl"
+  ],
+  "Arguments": null
+}
