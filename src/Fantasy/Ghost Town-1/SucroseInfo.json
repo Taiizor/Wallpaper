@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Ghost Town",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ghost Town - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/ghost-town-live-wallpaper",
+  "Type": 3,
+  "Source": "gt.mp4",
+  "Tags": [
+    "Autumn Tree",
+    "Medieval",
+    "Raining",
+    "Village"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Sailing Ship Sunset",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sailing Ship Sunset - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/sailing-ship-sunset-live-wallpaper",
+  "Type": 3,
+  "Source": "sss.mp4",
+  "Tags": [
+    "Medieval",
+    "Sunlight",
+    "Clouds",
+    "Waves"
+  ],
+  "Arguments": null
+}

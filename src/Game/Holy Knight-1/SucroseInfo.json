@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Holy Knight",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Holy Knight - The Legend of Zelda - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/zelda-holy-knight-the-legend-of-zelda-live-wallpaper",
+  "Type": 3,
+  "Source": "hktloz.mp4",
+  "Tags": [
+    "Tears of the Kingdom",
+    "Breath of the Wild",
+    "Medieval",
+    "Princess",
+    "Sword"
+  ],
+  "Arguments": null
+}

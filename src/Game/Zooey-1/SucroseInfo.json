@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Zooey",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Zooey - Granblue Fantasy: Versus - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/zooey-granblue-fantasy-versus-live-wallpaper",
+  "Type": 3,
+  "Source": "zgfv.mp4",
+  "Tags": [
+    "Medieval",
+    "Dragon",
+    "Wings"
+  ],
+  "Arguments": null
+}

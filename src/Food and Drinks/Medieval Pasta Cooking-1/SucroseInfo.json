@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Medieval Pasta Cooking",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Medieval Pasta Cooking - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/medieval-pasta-cooking-live-wallpaper",
+  "Type": 3,
+  "Source": "mpc.mp4",
+  "Tags": [
+    "Brown Hair",
+    "Fantasy",
+    "Noodles",
+    "Girl"
+  ],
+  "Arguments": null
+}
