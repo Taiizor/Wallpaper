@@ -798,6 +798,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "White Coat Gear 5 Luffy-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Sunbeam Gojo-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Standing In The Rain Itachi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Brawler Vi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Shiroha Naruse-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -7591,6 +7615,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Fall of Cybertron-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "The Uncaged Wrath of Zaun Warwick-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -12519,6 +12549,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Girl with Pink Hair-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Water Room Dreamscape-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",

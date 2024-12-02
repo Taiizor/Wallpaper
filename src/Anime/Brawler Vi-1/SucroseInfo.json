@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.12.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Brawler Vi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Brawler Vi - Arcane - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/arcane-brawler-vi-live-wallpaper",
+  "Type": 3,
+  "Source": "bva.mp4",
+  "Tags": [
+    "League of Legends"
+  ],
+  "Arguments": null
+}
