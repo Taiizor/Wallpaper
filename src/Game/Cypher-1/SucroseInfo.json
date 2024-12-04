@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Cypher",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cypher - Valorant - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/valorant-cypher-live-wallpaper",
+  "Type": 3,
+  "Source": "cv.mp4",
+  "Tags": [
+    "Cyborg",
+    "Agent",
+    "Hat"
+  ],
+  "Arguments": null
+}

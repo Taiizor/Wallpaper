@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Blood Moon Samurai",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Blood Moon Samurai - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/blood-moon-samurai-2-live-wallpaper",
+  "Type": 3,
+  "Source": "bms.mp4",
+  "Tags": [
+    "Flower Petals",
+    "Straw Hat",
+    "Katana",
+    "Sword",
+    "Water"
+  ],
+  "Arguments": null
+}

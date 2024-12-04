@@ -406,6 +406,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Floating Ducks-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cat Floating On The Water-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -798,6 +804,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Jinx Night Boat-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Camellya-3": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Jinx Neon Graffiti-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Dragon Slayer-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Anna Yanami-3": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "White Coat Gear 5 Luffy-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5615,6 +5651,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Blood Moon Samurai-2": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Beautiful Chinese Bride Crying-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -5946,12 +5988,6 @@
           "Adult": true
         },
         "Heavenly Gates-1": {
-          "Source": "src/Fantasy",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
-        "Purple Thundercloud-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
@@ -7843,6 +7879,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Cypher-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Jin Sakai Moonlight Field-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -12571,6 +12613,18 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Seirai Island-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Purple Thundercloud-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Goku and Shattering Rose Field-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
@@ -13087,6 +13141,12 @@
     },
     "Seasons": {
       "Wallpapers": {
+        "Cat and Girl In Autumn-1": {
+          "Source": "src/Seasons",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Autumn Anime Girl-1": {
           "Source": "src/Seasons",
           "Cover": "thumbnail.jpg",

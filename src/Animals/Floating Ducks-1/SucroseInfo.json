@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Floating Ducks",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Floating Ducks - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/animal/floating-ducks-live-wallpaper",
+  "Type": 3,
+  "Source": "fd.mp4",
+  "Tags": [
+    "Water",
+    "Fish"
+  ],
+  "Arguments": null
+}

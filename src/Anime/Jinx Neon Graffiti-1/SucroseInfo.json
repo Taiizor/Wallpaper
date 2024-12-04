@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Jinx Neon Graffiti",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Jinx Neon Graffiti - Arcane - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/jinx-neon-graffiti-arcane-2-live-wallpaper",
+  "Type": 3,
+  "Source": "jnga.mp4",
+  "Tags": [
+    "League of Legends",
+    "Hoodie"
+  ],
+  "Arguments": null
+}

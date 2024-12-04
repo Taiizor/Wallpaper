@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Seirai Island",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Seirai Island - Genshin Impact - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/seirai-island-genshin-impact-live-wallpaper",
+  "Type": 3,
+  "Source": "sigi.mp4",
+  "Tags": [
+    "Lightning",
+    "Thunder",
+    "Clouds"
+  ],
+  "Arguments": null
+}

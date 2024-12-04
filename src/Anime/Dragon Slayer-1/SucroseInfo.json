@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Dragon Slayer",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dragon Slayer - Berserk - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/dragon-slayer-berserk-live-wallpaper",
+  "Type": 3,
+  "Source": "dsb.mp4",
+  "Tags": [
+    "Field",
+    "Sword"
+  ],
+  "Arguments": null
+}
