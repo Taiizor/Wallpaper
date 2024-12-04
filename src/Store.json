@@ -698,6 +698,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "Girl on Bike-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "One Last Drink-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
@@ -804,6 +810,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "The Lady in a Chaotic House-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Luffy Animation-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Jinx Night Boat-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4926,6 +4944,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Sukuna Skull of Curses-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Musashi Miyamoto-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -7879,6 +7903,30 @@
     },
     "Game": {
       "Wallpapers": {
+        "Urgent Orders Xilonen-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Freyna-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Jinx-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Steam Autumn 2024-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cypher-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

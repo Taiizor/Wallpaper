@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "The Lady in a Chaotic House",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Puscilla: The Lady in a Chaotic House - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/puscilla-lady-chaotic-house",
+  "Type": 3,
+  "Source": "ptliach.mp4",
+  "Tags": [
+    "Eccentric House",
+    "Mysterious Lady",
+    "Whimsical Chaos",
+    "Dark Fantasy"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Girl on Bike",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Girl on Bike - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/girl-on-bike",
+  "Type": 3,
+  "Source": "gob.mp4",
+  "Tags": [
+    "Active Lifestyle",
+    "Female Cyclist",
+    "Scenic Biking",
+    "Cycling Girl"
+  ],
+  "Arguments": null
+}
