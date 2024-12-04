@@ -7903,6 +7903,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "Night-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Hamel-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Elysia Doves-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Urgent Orders Xilonen-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -10997,6 +11015,12 @@
     },
     "Horror": {
       "Wallpapers": {
+        "Me and the Devil-1": {
+          "Source": "src/Horror",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Dark Angel-1": {
           "Source": "src/Horror",
           "Cover": "thumbnail.jpg",
@@ -12391,6 +12415,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Firelight Tree-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Full Moon Torii-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
