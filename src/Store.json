@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Abstract Neon Wave-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Space Tornado-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -810,6 +816,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Kei Uzuki-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kayoko Feeding Cat In The Rain-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Champions-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kettletoro-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "The Lady in a Chaotic House-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -7249,6 +7279,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Under The Moonlight-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Animation-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -7903,6 +7939,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Tired Link-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Night-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -11200,6 +11242,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Grass Frost Winter-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Underground River View-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -12691,6 +12739,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Purple Katana-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Seirai Island-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
@@ -13373,6 +13427,12 @@
     },
     "Sports": {
       "Wallpapers": {
+        "Power Boxer-1": {
+          "Source": "src/Sports",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Anime Girl Succubus Baseball-1": {
           "Source": "src/Sports",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Abstract Neon Wave",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Abstract Neon Wave - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/abstract-neon-wave-live-wallpaper",
+  "Type": 3,
+  "Source": "anw.mp4",
+  "Tags": [
+    "Gradient Color",
+    "Abstraction",
+    "Colorful",
+    "Liquid",
+    "Flow"
+  ],
+  "Arguments": null
+}
