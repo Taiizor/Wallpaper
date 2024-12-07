@@ -816,6 +816,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Kaiju No 8-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Viktor-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Chiaki Take a Pic-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Rengoku-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Kei Uzuki-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5282,6 +5306,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Doctor Doom-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Bat Wings-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -5705,6 +5735,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Purple Flames Dark Knight-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blood Moon Samurai-2": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -7279,6 +7315,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Ryan Gosling Laying Down In Snow-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Under The Moonlight-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -12739,6 +12781,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Pink Hearts Anime Girl-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Purple Katana-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Rengoku",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rengoku - Kimetsu no Yaiba - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/rengoku-kimetsu-no-yaiba-live-wallpaper",
+  "Type": 3,
+  "Source": "rkny.mp4",
+  "Tags": [
+    "Kyojuro Rengoku",
+    "Fire Breathing",
+    "Nichirin Blade",
+    "Flame Hashira",
+    "Demon Slayer"
+  ],
+  "Arguments": null
+}

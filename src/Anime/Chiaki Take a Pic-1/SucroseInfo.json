@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Chiaki Take a Pic",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Chiaki Take a Pic - Blue Archive - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/chiaki-take-a-pic-blue-archive-live-wallpaper",
+  "Type": 3,
+  "Source": "ctapba.mp4",
+  "Tags": [
+    "Motomiya Chiaki",
+    "Camera",
+    "Horns",
+    "Smile"
+  ],
+  "Arguments": null
+}

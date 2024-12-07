@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Viktor",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Viktor - Arcane - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/viktor-arcane-2-live-wallpaper",
+  "Type": 3,
+  "Source": "va.mp4",
+  "Tags": [
+    "League of Legends"
+  ],
+  "Arguments": null
+}
