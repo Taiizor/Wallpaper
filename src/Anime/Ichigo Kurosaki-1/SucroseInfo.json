@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Ichigo Kurosaki",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ichigo Kurosaki - Bleach - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/ichigo-kurosaki-bleach-anime",
+  "Type": 3,
+  "Source": "ikb.mp4",
+  "Tags": [
+    "Bankai Power",
+    "Sour Reaper",
+    "Shinigami"
+  ],
+  "Arguments": null
+}

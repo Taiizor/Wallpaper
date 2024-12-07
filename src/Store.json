@@ -822,6 +822,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Luffy Winter Happyness-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Luffy Winter-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Blue Eyes Gojo Satoru-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Ichigo Kurosaki-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Asaba Harumasa-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Kaiju No 8-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5741,6 +5771,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "The Green Portal-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Purple Flames Dark Knight-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -7987,6 +8023,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Exile-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "McLaren 570S-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Tired Link-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -8286,6 +8334,12 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": false
+        },
+        "Angular Gyrus-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         },
         "Angular Gyrus-1": {
           "Source": "src/Game",

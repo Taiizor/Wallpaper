@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "The Green Portal",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The Green Portal - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/the-green-portal",
+  "Type": 3,
+  "Source": "tgp.mp4",
+  "Tags": [
+    "Magical Landscape",
+    "Surreal Visuals",
+    "Glowing Portal",
+    "Fantasy World"
+  ],
+  "Arguments": null
+}

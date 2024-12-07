@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "McLaren 570S",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "McLaren 570S - Need for Speed - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/mclaren-570s",
+  "Type": 3,
+  "Source": "ml570snfs.mp4",
+  "Tags": [
+    "Luxury Sports Cars",
+    "Sleek Design",
+    "NFS"
+  ],
+  "Arguments": null
+}
