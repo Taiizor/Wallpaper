@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Yellow Venom",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Yellow Venom - Live Wallpaper",
+  "Author": "Rostislav Uzunov",
+  "License": null,
+  "Contact": "https://www.pexels.com/@rostislav",
+  "Type": 3,
+  "Source": "yv.mp4",
+  "Tags": [],
+  "Arguments": null
+}

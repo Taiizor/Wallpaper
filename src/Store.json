@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Yellow Venom-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Abstract Neon Wave-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
