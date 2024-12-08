@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Deep Blue Space",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Deep Blue Space - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/deep-blue-space",
+  "Type": 3,
+  "Source": "dbs.mp4",
+  "Tags": [
+    "Outer Space",
+    "Starry Sky",
+    "Cosmic",
+    "Galaxy",
+    "Nebula"
+  ],
+  "Arguments": null
+}

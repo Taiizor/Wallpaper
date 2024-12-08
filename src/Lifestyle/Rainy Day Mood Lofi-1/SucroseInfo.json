@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Rainy Day Mood Lofi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rainy Day Mood Lofi - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/rainy-day-mood-lofi",
+  "Type": 3,
+  "Source": "rdml.mp4",
+  "Tags": [
+    "Chill With Pets",
+    "Lazy Afternoon",
+    "Warm Fireplace",
+    "Cozy Vibes",
+    "Dog"
+  ],
+  "Arguments": null
+}

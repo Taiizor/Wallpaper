@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Pit Brawler Vi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Pit Brawler Vi - Arcane - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/pit-brawler-vi-arcane",
+  "Type": 3,
+  "Source": "pbva.mp4",
+  "Tags": [
+    "League of Legends"
+  ],
+  "Arguments": null
+}

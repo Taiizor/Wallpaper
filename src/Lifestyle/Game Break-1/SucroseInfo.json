@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Game Break",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Game Break - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/game-break",
+  "Type": 3,
+  "Source": "gb.mp4",
+  "Tags": [
+    "Cozy Gaming Setup",
+    "Rest and Play",
+    "Chill Vibes",
+    "Girl in Bed",
+    "Girl"
+  ],
+  "Arguments": null
+}

@@ -822,6 +822,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Makima Yellow Eyes-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Devilish Girl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Sanji Cyberpunk-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Pit Brawler Vi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Luffy Winter Happyness-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -11852,6 +11876,36 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Rainy Day Mood Lofi-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cozy Urban Night-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Blue Haired Girl-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Game Break-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Gameboy Girl-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "School Girl Night Stars-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -12429,6 +12483,12 @@
     },
     "Love": {
       "Wallpapers": {
+        "Powder and Ekko Watching Fireworks-1": {
+          "Source": "src/Love",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Romantic Garden-1": {
           "Source": "src/Love",
           "Cover": "thumbnail.jpg",
@@ -13441,6 +13501,12 @@
     },
     "Space": {
       "Wallpapers": {
+        "Deep Blue Space-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Space Loop-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
