@@ -822,6 +822,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Yuyuko Red Spider Lily Katana-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Jedi Pikachu-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -8095,6 +8101,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Winter Northern Lights-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Exile-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -13579,6 +13591,12 @@
     },
     "Space": {
       "Wallpapers": {
+        "Empty Out Your Pockets-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Deep Blue Space-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",

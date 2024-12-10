@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Winter Northern Lights",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Winter Northern Lights - Minecraft - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/minecraft-winter-northern-lights-live-wallpaper",
+  "Type": 3,
+  "Source": "wnlm.mp4",
+  "Tags": [
+    "Fireworks",
+    "Landscape",
+    "Nature",
+    "Cabin",
+    "Trees"
+  ],
+  "Arguments": null
+}
