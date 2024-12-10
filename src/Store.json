@@ -822,6 +822,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Jedi Pikachu-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Happy Kid Luffy-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Hinata Hyuga-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Itachi Uchiha Red-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Blue-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Makima Yellow Eyes-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5058,6 +5088,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Ryomen Sukuna White-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sukuna Skull of Curses-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -5663,6 +5699,12 @@
     },
     "Cute": {
       "Wallpapers": {
+        "Cute Reindeer Christmas-1": {
+          "Source": "src/Cute",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cute Girl with Forest Ghosts-1": {
           "Source": "src/Cute",
           "Cover": "thumbnail.jpg",
@@ -5795,6 +5837,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Spartan General Knight-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "The Green Portal-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -11167,6 +11215,18 @@
     },
     "Holidays": {
       "Wallpapers": {
+        "Sleeping Santa Christmas-1": {
+          "Source": "src/Holidays",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Christmas Lofi-1": {
+          "Source": "src/Holidays",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Vacation Cat-1": {
           "Source": "src/Holidays",
           "Cover": "thumbnail.jpg",
@@ -11876,6 +11936,18 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Airport Runway-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Evening Ocean Breeze-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Rainy Day Mood Lofi-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -13167,6 +13239,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Event Horizon-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Girl with Pink Hair-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",

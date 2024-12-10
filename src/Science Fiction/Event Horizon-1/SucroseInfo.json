@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Event Horizon",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Event Horizon - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/event-horizon",
+  "Type": 3,
+  "Source": "eh.mp4",
+  "Tags": [
+    "Cosmic Phenomenon",
+    "Space Exploration",
+    "Celestial Event",
+    "Black Hole",
+    "Deep Space"
+  ],
+  "Arguments": null
+}
