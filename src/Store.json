@@ -822,6 +822,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Hinata Hyuga Face-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Yuyuko Red Spider Lily Katana-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5094,6 +5100,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Blindfold Girl-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Ryomen Sukuna White-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -8101,6 +8113,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Yuki x Aigis In The Train-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Winter Northern Lights-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -11440,6 +11458,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Mountain Lake Falling Stars-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Grass Frost Winter-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -11948,6 +11972,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Sad Pepe Smoking-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Airport Runway-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",

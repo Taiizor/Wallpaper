@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Mountain Lake Falling Stars",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mountain Lake Falling Stars - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/mountain-lake-falling-stars-live-wallpaper",
+  "Type": 3,
+  "Source": "mlfs.mp4",
+  "Tags": [
+    "Clouds",
+    "Nature",
+    "Trees",
+    "Water"
+  ],
+  "Arguments": null
+}

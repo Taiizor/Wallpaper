@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Sad Pepe Smoking",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sad Pepe Smoking - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/others/sad-pepe-smoking-live-wallpaper",
+  "Type": 3,
+  "Source": "sps.mp4",
+  "Tags": [
+    "Pepe the Frog",
+    "Depressed",
+    "Lonely",
+    "Sigma"
+  ],
+  "Arguments": null
+}
