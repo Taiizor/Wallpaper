@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>System Dials</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="styles/dial.css">
+    </head>
+    <body class="body">
+        <div class="container">
+            <div class="gpu">
+                <div class="gauge-wrapper">
+                    <div class="gauge-background">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="arc-background" width="308px" height="308px" viewBox="0 0 360 360">
+                            <mask id="arc-mask">
+                                <rect x="0" y="0" width="360" height="360" fill="#fff"></rect>
+                                <path id="arc-knockout" transform-origin="50% 50%" d="M 180 180 L -18.5 360 L 378.5 360 Z" fill="#000"></path>
+                                <circle id="circle-knockout" cx="180" cy="180" r="150px" fill="#000"></circle>
+                            </mask>
+                            <circle id="big-circle" cx="180" cy="180" r="180" fill="#232f4e" mask="url(#arc-mask)"></circle>
+                        </svg>
+                    </div>
+                    <div class="gauge gauge-unit-mbps">
+                        <div class="gpu-gauge-speed-needle">
+                            <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="308px" height="308px" viewBox="0 0 320 320">
+                                <defs>
+                                    <linearGradient id="needle-gradient" x1="0" y1="1" x2="0" y2="0">
+                                        <stop offset="0" stop-color="#232f4e" stop-opacity="0"></stop>
+                                        <stop offset="0.3" stop-color="#232f4e" stop-opacity="0.75"></stop>
+                                        <stop offset="1" stop-color="#fff" stop-opacity="1"></stop>
+                                    </linearGradient>
+                                    <g id="needle-shape">
+                                        <polygon fill="url(#needle-gradient)" points="22.878,120.603 0,120.603 6.115,0 16.763,0"></polygon>
+                                    </g>
+                                </defs>
+                                <use xlink:href="#needle-shape" x="148.561" y="55.5"></use>
+                            </svg>
+                        </div>
+                        <div class="gauge-speed-arc-container">
+                            <canvas class="gpu-gauge-speed-arc" width="308px" height="308px"></canvas>
+                        </div>
+                        <canvas class="gauge-speed-text" width="308px" height="308px"></canvas>
+                        <div class="gauge-unit-icon">
+                            <span class="gauge-unit-text" id="gpu-gauge-text">0%</span>
+                            <br>
+                            <span class="gauge-unit-text" id="gpu-id-text"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="cpu">
+                <div class="gauge-wrapper">
+                    <div class="gauge-background">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="arc-background" width="308px" height="308px" viewBox="0 0 360 360">
+                            <mask id="arc-mask">
+                                <rect x="0" y="0" width="360" height="360" fill="#fff"></rect>
+                                <path id="arc-knockout" transform-origin="50% 50%" d="M 180 180 L -18.5 360 L 378.5 360 Z" fill="#000"></path>
+                                <circle id="circle-knockout" cx="180" cy="180" r="150px" fill="#000"></circle>
+                            </mask>
+                            <circle id="big-circle" cx="180" cy="180" r="180" fill="#232f4e" mask="url(#arc-mask)"></circle>
+                        </svg>
+                    </div>
+                    <div class="gauge gauge-unit-mbps">
+                        <div class="cpu-gauge-speed-needle">
+                            <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="308px" height="308px" viewBox="0 0 320 320">
+                                <defs>
+                                    <linearGradient id="needle-gradient" x1="0" y1="1" x2="0" y2="0">
+                                        <stop offset="0" stop-color="#232f4e" stop-opacity="0"></stop>
+                                        <stop offset="0.3" stop-color="#232f4e" stop-opacity="0.75"></stop>
+                                        <stop offset="1" stop-color="#fff" stop-opacity="1"></stop>
+                                    </linearGradient>
+                                    <g id="needle-shape">
+                                        <polygon fill="url(#needle-gradient)" points="22.878,120.603 0,120.603 6.115,0 16.763,0"></polygon>
+                                    </g>
+                                </defs>
+                                <use xlink:href="#needle-shape" x="148.561" y="55.5"></use>
+                            </svg>
+                        </div>
+                        <div class="gauge-speed-arc-container">
+                            <canvas class="cpu-gauge-speed-arc" width="308px" height="308px"></canvas>
+                        </div>
+                        <canvas class="gauge-speed-text" width="308px" height="308px"></canvas>
+                        <div class="gauge-unit-icon">
+                            <span class="gauge-unit-text" id="cpu-gauge-text">0%</span>
+                            <br>
+                            <span class="gauge-unit-text" id="cpu-id-text"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ram">
+                <div class="gauge-wrapper">
+                    <div class="gauge-background">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="arc-background" width="308px" height="308px" viewBox="0 0 360 360">
+                            <mask id="arc-mask">
+                                <rect x="0" y="0" width="360" height="360" fill="#fff"></rect>
+                                <path id="arc-knockout" transform-origin="50% 50%" d="M 180 180 L -18.5 360 L 378.5 360 Z" fill="#000"></path>
+                                <circle id="circle-knockout" cx="180" cy="180" r="150px" fill="#000"></circle>
+                            </mask>
+                            <circle id="big-circle" cx="180" cy="180" r="180" fill="#232f4e" mask="url(#arc-mask)"></circle>
+                        </svg>
+                    </div>
+                    <div class="gauge gauge-unit-mbps">
+                        <div class="ram-gauge-speed-needle">
+                            <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="308px" height="308px" viewBox="0 0 320 320">
+                                <defs>
+                                    <linearGradient id="needle-gradient" x1="0" y1="1" x2="0" y2="0">
+                                        <stop offset="0" stop-color="#232f4e" stop-opacity="0"></stop>
+                                        <stop offset="0.3" stop-color="#232f4e" stop-opacity="0.75"></stop>
+                                        <stop offset="1" stop-color="#fff" stop-opacity="1"></stop>
+                                    </linearGradient>
+                                    <g id="needle-shape">
+                                        <polygon fill="url(#needle-gradient)" points="22.878,120.603 0,120.603 6.115,0 16.763,0"></polygon>
+                                    </g>
+                                </defs>
+                                <use xlink:href="#needle-shape" x="148.561" y="55.5"></use>
+                            </svg>
+                        </div>
+                        <div class="gauge-speed-arc-container">
+                            <canvas class="ram-gauge-speed-arc" width="308px" height="308px"></canvas>
+                        </div>
+                        <canvas class="gauge-speed-text" width="308px" height="308px"></canvas>
+                        <div class="gauge-unit-icon">
+                            <span class="gauge-unit-text" id="ram-gauge-text">0MB</span>
+                            <br>
+                            <span class="gauge-unit-text" id="ram-id-text"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="script/dial.js"></script>
+    </body>
+</html>

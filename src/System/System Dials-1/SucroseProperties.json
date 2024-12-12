@@ -1,0 +1,15 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "speedArcColor1": {
+      "text": "Arc Start Color",
+      "type": "colorpicker",
+      "value": "#FF69ACDB"
+    },
+    "speedArcColor2": {
+      "text": "Arc End Color",
+      "type": "colorpicker",
+      "value": "#FF69DB8A"
+    }
+  }
+}

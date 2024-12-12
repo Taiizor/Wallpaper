@@ -1,0 +1,5 @@
+{
+  "SystemCpu": "SucroseCpuData({0});",
+  "SystemGraphic": "SucroseGpuData({0});",
+  "SystemMemory": "SucroseMemoryData({0});"
+}

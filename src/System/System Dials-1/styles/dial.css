@@ -1,0 +1,104 @@
+@font-face {
+    font-family: "Roboto Mono";
+    src: url("../fonts/RobotoMono.ttf") format("truetype");
+    font-weight: 500;
+}
+html,
+body {
+    user-select: none;
+    padding: 0;
+    margin: 0;
+}
+html {
+    flex-direction: column;
+    display: flex;
+    height: 100%;
+    align-content: center;
+    justify-content: center;
+}
+body {
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.cpu {
+    width: 308px;
+    margin: 0;
+}
+.gpu {
+    width: 308px;
+    margin: 0;
+}
+.gauge-wrapper {
+    width: 308px;
+    height: 308px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.gauge-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.gauge-unit-mbps {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.cpu-gauge-speed-needle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform-origin: 50% 50%;
+    transform: rotateZ(-130deg); /* Adjust this angle based on your design */
+}
+
+.gpu-gauge-speed-needle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform-origin: 50% 50%;
+    transform: rotateZ(-130deg); /* Adjust this angle based on your design */
+}
+
+.gauge-speed-arc-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.gauge-unit-icon {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+}
+
+.gauge-unit-text {
+    font-size: "15px";
+    font-family: "Roboto Mono";
+    font-weight: 400;
+    color: "#a4a4a4";
+}

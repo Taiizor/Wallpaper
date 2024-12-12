@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "System Dials",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "An animated wallpaper made using sucrose hardware api showing system usage info on dials.",
+  "Author": "NatromeTex",
+  "License": null,
+  "Contact": "https://github.com/NatromeTex",
+  "Type": 2,
+  "Source": "Dials.html",
+  "Tags": [
+    "Information",
+    "Graphic",
+    "Memory",
+    "Chart"
+  ],
+  "Arguments": null
+}
