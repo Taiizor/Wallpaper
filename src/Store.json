@@ -822,6 +822,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Hatsune Miku Room-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Hinata Hyuga Face-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -11346,6 +11352,18 @@
     },
     "Kids and Cartoon": {
       "Wallpapers": {
+        "Season's Greetings from the Hatchlings-2": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Season's Greetings from the Hatchlings-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Opening-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
@@ -13621,6 +13639,12 @@
     },
     "Space": {
       "Wallpapers": {
+        "ISS Over New Zealand-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Empty Out Your Pockets-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",

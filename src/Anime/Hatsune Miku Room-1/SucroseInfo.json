@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Hatsune Miku Room",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Hatsune Miku Room - Live Wallpaper",
+  "Author": "MotionBGS",
+  "License": null,
+  "Contact": "https://motionbgs.com/hatsune-miku-room",
+  "Type": 3,
+  "Source": "hmr.mp4",
+  "Tags": [
+    "Girl"
+  ],
+  "Arguments": null
+}

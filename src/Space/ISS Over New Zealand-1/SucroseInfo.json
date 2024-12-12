@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "ISS Over New Zealand",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "ISS Over New Zealand - Live Wallpaper",
+  "Author": "NASACrewEarthObs",
+  "License": null,
+  "Contact": "https://www.youtube.com/@NASACrewEarthObs",
+  "Type": 3,
+  "Source": "issonz.mp4",
+  "Tags": null,
+  "Arguments": null
+}
