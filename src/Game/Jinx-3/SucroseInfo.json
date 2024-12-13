@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Jinx",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Jinx - League of Legends - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/jinx-league-of-legends-live-wallpaper",
+  "Type": 3,
+  "Source": "jlol.mp4",
+  "Tags": null,
+  "Arguments": null
+}

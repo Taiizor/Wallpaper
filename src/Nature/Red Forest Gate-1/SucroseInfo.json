@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Red Forest Gate",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Red Forest Gate - Torii - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/torii-red-forest-gate",
+  "Type": 3,
+  "Source": "rfgt.mp4",
+  "Tags": [
+    "Nature Aesthetic",
+    "Serene Landscape",
+    "Peaceful Forest",
+    "Japanese Gate",
+    "Torii Gate"
+  ],
+  "Arguments": null
+}

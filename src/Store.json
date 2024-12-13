@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "High Speed ​​Rail-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Yellow Venom-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -822,6 +828,48 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Killua-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Yui Itadori-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Toshiro Hitsugaya-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Muichiro Tokito-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Viktor-3": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Frieren x Fern Morning Coffee-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Crying-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Hatsune Miku Room-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5106,6 +5154,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "The Lonely Samurai-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blindfold Girl-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -8119,6 +8173,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Jinx-3": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Fugue-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Yuki x Aigis In The Train-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -12757,6 +12823,18 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Moonlight Boat Ride-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Red Forest Gate-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Firelight Tree-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
@@ -12923,6 +13001,12 @@
     },
     "Persons": {
       "Wallpapers": {
+        "Freckles Girl-1": {
+          "Source": "src/Persons",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Specky Girl-1": {
           "Source": "src/Persons",
           "Cover": "thumbnail.jpg",
