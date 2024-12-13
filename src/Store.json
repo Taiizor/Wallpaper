@@ -828,6 +828,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Seishiro Nagi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Tapion Resting by a Campfire-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Killua-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -7507,6 +7519,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Endurance-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Ryan Gosling Laying Down In Snow-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -8173,6 +8191,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "The Witcher IV-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Spider-Man-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Jeff The Land Shark-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Jinx-3": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

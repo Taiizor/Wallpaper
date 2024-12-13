@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Jeff The Land Shark",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Jeff The Land Shark - Marvel Rivals - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/jeff-the-land-shark-marvel-rivals-live-wallpaper",
+  "Type": 3,
+  "Source": "jtlsmr.mp4",
+  "Tags": [
+    "Animal",
+    "Comics"
+  ],
+  "Arguments": null
+}

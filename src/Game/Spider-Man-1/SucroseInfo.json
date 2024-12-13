@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Spider-Man",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Spider-Man - Marvel Rivals - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/spider-man-marvel-rivals-live-wallpaper",
+  "Type": 3,
+  "Source": "smmr.mp4",
+  "Tags": [
+    "Peter Parker",
+    "Hanging"
+  ],
+  "Arguments": null
+}
