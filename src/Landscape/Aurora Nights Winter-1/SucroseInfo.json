@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Aurora Nights Winter",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Aurora Nights Winter - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/aurora-nights-winter-live-wallpaper",
+  "Type": 3,
+  "Source": "anw.mp4",
+  "Tags": [
+    "Aurora Borealis",
+    "Mountain",
+    "Snowfall",
+    "Nature",
+    "Trees"
+  ],
+  "Arguments": null
+}

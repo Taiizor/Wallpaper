@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Psylocke",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Psylocke - Marvel Rivals - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/psylocke-marvel-rivals-live-wallpaper",
+  "Type": 3,
+  "Source": "pmr.mp4",
+  "Tags": [
+    "Purple Hair",
+    "Comics",
+    "Katana"
+  ],
+  "Arguments": null
+}

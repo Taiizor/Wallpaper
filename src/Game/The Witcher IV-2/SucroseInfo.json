@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "The Witcher IV",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The Witcher IV - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/the-witcher-iv-live-wallpaper",
+  "Type": 3,
+  "Source": "twiv.mp4",
+  "Tags": [
+    "The Witcher 4",
+    "Lynx"
+  ],
+  "Arguments": null
+}

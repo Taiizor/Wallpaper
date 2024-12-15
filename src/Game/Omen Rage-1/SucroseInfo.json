@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Omen Rage",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Omen Rage - Valorant - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/omen-rage-valorant-live-wallpaper",
+  "Type": 3,
+  "Source": "orv.mp4",
+  "Tags": [
+    "Agent",
+    "Cloak"
+  ],
+  "Arguments": null
+}

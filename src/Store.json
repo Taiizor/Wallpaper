@@ -828,6 +828,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Princess Mononoke x Moro-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Camellya Stick Tongue Out-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Seishiro Nagi-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -8191,6 +8203,36 @@
     },
     "Game": {
       "Wallpapers": {
+        "Omen Rage-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Main Menu-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Psylocke-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "The Witcher IV-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "A New Saga Begins Witcher 4-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "The Witcher IV-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -11578,6 +11620,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Aurora Nights Winter-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Mountain Lake Falling Stars-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -13153,6 +13201,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Uchiha Sasuke Susanoo-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Pink Hearts Anime Girl-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
