@@ -828,6 +828,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Jinx Hood-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Princess Mononoke x Moro-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5178,6 +5184,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Night-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "The Lonely Samurai-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -8203,6 +8215,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Jinx Eyes-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Omen Rage-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

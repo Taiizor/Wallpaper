@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Night",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Night - Berserk - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/berserk-night",
+  "Type": 3,
+  "Source": "nb.mp4",
+  "Tags": [
+    "Dark Fantasy",
+    "Guts Berserk",
+    "Anime"
+  ],
+  "Arguments": null
+}
