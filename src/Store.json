@@ -828,6 +828,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Weary Guts-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Happy Kid Goku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Fireplace Vi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Jinx Hood-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5184,6 +5202,18 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Torii Lone Samurai-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Thunderstorm Guts-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Night-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -5676,6 +5706,12 @@
     },
     "Cities and Places": {
       "Wallpapers": {
+        "Winter Pagoda-1": {
+          "Source": "src/Cities and Places",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Neighborhood Train-1": {
           "Source": "src/Cities and Places",
           "Cover": "thumbnail.jpg",
@@ -8215,6 +8251,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "Malenia Blade of Miquella-3": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ash-3": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Red Petals-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Jinx Eyes-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -11413,6 +11467,12 @@
     },
     "Holidays": {
       "Wallpapers": {
+        "Mountain Christmas Tree-1": {
+          "Source": "src/Holidays",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sleeping Santa Christmas-1": {
           "Source": "src/Holidays",
           "Cover": "thumbnail.jpg",
@@ -12158,6 +12218,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Starry Night Boat Ride-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sad Pepe Smoking-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -12925,6 +12991,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Crashing Waves Pier-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Moonlight Boat Ride-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
@@ -13491,6 +13563,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Intergalactic Space Room-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Event Horizon-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",

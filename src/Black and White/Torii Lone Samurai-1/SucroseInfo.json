@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Torii Lone Samurai",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Torii Lone Samurai - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/fantasy/torii-lone-samurai-live-wallpaper",
+  "Type": 3,
+  "Source": "tls.mp4",
+  "Tags": [
+    "Katana"
+  ],
+  "Arguments": null
+}
