@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Iron Man",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Iron Man - Marvel Rivals - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/iron-man-marvel-rivals-live-wallpaper",
+  "Type": 3,
+  "Source": "immr.mp4",
+  "Tags": [
+    "Tony Stark",
+    "IronMan",
+    "Comics"
+  ],
+  "Arguments": null
+}

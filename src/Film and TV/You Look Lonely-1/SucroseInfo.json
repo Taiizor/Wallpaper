@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "You Look Lonely",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "You Look Lonely - Blade Runner 2049 - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/you-look-lonely-blade-runner-2049-live-wallpaper",
+  "Type": 3,
+  "Source": "yllbr2049.mp4",
+  "Tags": [
+    "Ryan Gosling",
+    "Cyberpunk",
+    "Depressed",
+    "Dystopian",
+    "Neon"
+  ],
+  "Arguments": null
+}

@@ -828,6 +828,42 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Winter Campfire-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Lonely Anime Girl In The Snow-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Charizard Breathing Fire-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Jane Doe-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "The Shorekeeper Blue Butterfly-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Miyu Garbage Bicycle-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Jinx-5": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -7591,6 +7627,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "You Look Lonely-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Endurance-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -8133,6 +8175,12 @@
     },
     "Galaxy": {
       "Wallpapers": {
+        "Blue Dark Galaxy-1": {
+          "Source": "src/Galaxy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Chaos Nebula-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
@@ -8263,6 +8311,54 @@
     },
     "Game": {
       "Wallpapers": {
+        "Steam Delivery Girl Sleeping Winter Sale 2024-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Steam Delivery Girl Winter Sale 2024-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Mitsubishi Eclipse GSX-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Iron Man-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Tokyo 2099 Shin Shibuya-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Samurai-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Mita Sleeping-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Menu-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Malenia Blade of Miquella-3": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -11710,6 +11806,18 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Winter Christmas House Aurora-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Morning Winter Snow Mountains-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Aurora Nights Winter-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -12230,6 +12338,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Alone At The Train Station-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Starry Night Boat Ride-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",

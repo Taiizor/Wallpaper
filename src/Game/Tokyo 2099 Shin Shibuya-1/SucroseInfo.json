@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Tokyo 2099 Shin Shibuya",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Tokyo 2099 Shin Shibuya - Marvel Rivals - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/tokyo-2099-shin-shibuya-marvel-rivals-live-wallpaper",
+  "Type": 3,
+  "Source": "t2099ssmr.mp4",
+  "Tags": [
+    "Flying Cars",
+    "Skyscrapers",
+    "Futuristic"
+  ],
+  "Arguments": null
+}

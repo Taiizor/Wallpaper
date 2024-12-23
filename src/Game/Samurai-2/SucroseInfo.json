@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Samurai",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Samurai - Onimusha: Way of the Sword - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/samurai-onimusha-way-of-the-sword-live-wallpaper",
+  "Type": 3,
+  "Source": "sowots.mp4",
+  "Tags": [
+    "Edo Period",
+    "Katana"
+  ],
+  "Arguments": null
+}

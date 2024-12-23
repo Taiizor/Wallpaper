@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.12.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Charizard Breathing Fire",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Charizard Breathing Fire - Pokemon - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/charizard-breathing-fire-pokemon-live-wallpaper",
+  "Type": 3,
+  "Source": "cbfp.mp4",
+  "Tags": [
+    "Fire Breathing",
+    "Dragon"
+  ],
+  "Arguments": null
+}
